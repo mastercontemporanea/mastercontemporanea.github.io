@@ -1,8 +1,18 @@
 ---
 layout: page
-title: Getting started with Reverie
-permalink: /getting-started/
+title: Corsi
+permalink: /corsi/
 ---
+
+
+
+#### Prof. Pasquale CITERA
+
+[COMPOSIZIONE ELETTROACUSTICA]({{ site.baseurl }}/come02)
+
+
+
+
 
 ### Step 1) Fork Reverie to your User Repository
 

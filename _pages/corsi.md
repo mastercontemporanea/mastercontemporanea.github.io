@@ -10,8 +10,15 @@ permalink: /corsi/
 
 [COMPOSIZIONE ELETTROACUSTICA]({{ site.baseurl }}/come02)
 
+#### Prof. Stefano BRACCI
+
+[COMPOSIZIONE E SEMIOGRAFIA]({{ site.baseurl }}/comp)
 
 
+
+
+
+<!--
 
 
 ### Step 1) Fork Reverie to your User Repository
@@ -58,4 +65,4 @@ The generated [RSS feed](https://en.wikipedia.org/wiki/RSS) of your blog can be 
 
 ## Sitemap
 
-The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap).
+The generated sitemap of your blog can be found at <https://yourgithubusername.github.io/sitemap>. You can see the example sitemap feed over [here](https://www.amitmerchant.com/reverie/sitemap). -->

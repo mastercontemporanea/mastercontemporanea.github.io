@@ -6,17 +6,27 @@ permalink: /corsi/
 
 
 
-#### Prof. Pasquale CITERA
 
-[COMPOSIZIONE ELETTROACUSTICA]({{ site.baseurl }}/come02)
 
 #### Prof. Stefano BRACCI
 
-[COMPOSIZIONE E SEMIOGRAFIA]({{ site.baseurl }}/comp)
+[COMPOSIZIONE E SEMIOGRAFIA]({{ site.baseurl }}/citera)
 
+#### Prof. Pasquale CITERA
 
+[INTERPRETAZIONE DELLA MUSICA ELETTROACUSTICA]({{ site.baseurl }}/bracci)
 
+#### Prof. Franco MIRENZI
 
+[ELEMENTI DI COMPOSIZIONE]({{ site.baseurl }}/mirenzi)
+
+#### Prof. Guido SALVETTI
+
+[ELEMENTI DI COMPOSIZIONE]({{ site.baseurl }}/salvetti)
+
+#### Prof. Nicola COLABIANCHI
+
+[ANALISI DEL REPERTORIO CONTEMPORANEO]({{ site.baseurl }}/colabianchi)
 
 <!--
 

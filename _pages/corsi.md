@@ -26,7 +26,7 @@ permalink: /corsi/
 
 #### Prof. Nicola COLABIANCHI
 
-[ANALISI DEL REPERTORIO CONTEMPORANEO]({{ site.baseurl }}/colabianchi)
+[ANALISI DEL REPERTORIO CONTEMPORANEO]({{ site.baseurl }}/bracciANALISI)
 
 <!--
 

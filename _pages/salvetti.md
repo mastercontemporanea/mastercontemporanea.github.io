@@ -4,6 +4,6 @@ title: STORIA DELLA MUSICA CONTEMPORANEA
 permalink: /salvetti/
 ---
 
-#### Prof. Guido SALVETTI
+### Prof. Guido SALVETTI
 
 [MATERIALE 1]({{ site.baseurl }}/salvetti)

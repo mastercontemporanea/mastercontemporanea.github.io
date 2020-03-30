@@ -1,9 +1,9 @@
 ---
 layout: page
-title: COMPOSIZIONE E SEMIOGRAFIA
-permalink: /comp/
+title: STORIA DELLA MUSICA CONTEMPORANEA
+permalink: /salvetti/
 ---
 
-#### Prof. Stefano BRACCI
+#### Prof. Guido SALVETTI
 
-[MATERIALE 1]({{ site.baseurl }}/come02)
+[MATERIALE 1]({{ site.baseurl }}/salvetti)

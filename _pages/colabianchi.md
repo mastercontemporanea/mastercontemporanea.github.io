@@ -1,26 +1,7 @@
 ---
 layout: page
-title: COMPOSIZIONE ELETTROACUSTICA
-permalink: /come02/
+title: ANALISI DEL REPERTORIO CONTEMPORANEO
+permalink: /colabianchi/
 ---
 
-#### Prof. Pasquale CITERA
-
-LEZIONE 1 - INTRODUZIONE ALLA MUSICA ELETTROACUSTICA -
-<a href="https://www.academia.edu/21693947/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_I_-_INTRODUZIONE_E_STORIA_DELLA_MUSICA_ELETTROACUSTICA" target="_blank">DISPENSE</a> 
-
-LEZIONE 2 - CENNI DI ACUSTICA E PSICOACUSTICA -
-<a href="https://www.academia.edu/22305517/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_II_-_ACUSTICA_E_PSICOACUSTICA" target="_blank">DISPENSE</a>
-
-
-LEZIONE 3
-[DISPENSE]({{ site.baseurl }}/come02)
-
-LEZIONE 4
-[DISPENSE]({{ site.baseurl }}/come02)
-
-LEZIONE 5 - (I On Line) -
-[DISPENSE]({{ site.baseurl }}/come02) - [VIDEO]({{ site.baseurl }}/come02)
-
-LEZIONE 6 - (II On Line)-
-[DISPENSE]({{ site.baseurl }}/come02) - [VIDEO]({{ site.baseurl }}/come02)
+#### Prof. Nicola COLABIANCHI

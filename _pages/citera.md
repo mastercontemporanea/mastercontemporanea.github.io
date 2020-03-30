@@ -1,26 +1,31 @@
 ---
 layout: page
 title: COMPOSIZIONE ELETTROACUSTICA
-permalink: /come02/
+permalink: /citera/
 ---
 
 #### Prof. Pasquale CITERA
 
 LEZIONE 1 - INTRODUZIONE ALLA MUSICA ELETTROACUSTICA -
-<a href="https://www.academia.edu/21693947/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_I_-_INTRODUZIONE_E_STORIA_DELLA_MUSICA_ELETTROACUSTICA" target="_blank">DISPENSE</a> 
+<a href="https://www.academia.edu/21693947/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_I_-_INTRODUZIONE_E_STORIA_DELLA_MUSICA_ELETTROACUSTICA" target="_blank">DISPENSE</a>
 
 LEZIONE 2 - CENNI DI ACUSTICA E PSICOACUSTICA -
 <a href="https://www.academia.edu/22305517/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_II_-_ACUSTICA_E_PSICOACUSTICA" target="_blank">DISPENSE</a>
 
 
 LEZIONE 3
-[DISPENSE]({{ site.baseurl }}/come02)
+<a href="https://www.academia.edu/23013069/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_III_-_LA_CATENA_ELETTROACUSTICA" target="_blank">DISPENSE</a>
+
 
 LEZIONE 4
-[DISPENSE]({{ site.baseurl }}/come02)
-
+<a href="https://www.academia.edu/24263813/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_IV_-_IL_SUONO_DIGITALE._TEORIA_DEL_CAMPIONAMENTO" target="_blank">DISPENSE</a>
+***
 LEZIONE 5 - (I On Line) -
-[DISPENSE]({{ site.baseurl }}/come02) - [VIDEO]({{ site.baseurl }}/come02)
+<a href="https://www.academia.edu/42243952/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_V_-_TECNICHE_DI_SINTESI_E_MODULAZIONE_DEL_SUONO_-01" target="_blank">DISPENSE</a>  
+<a href="https://www.youtube.com/watch?v=qlWnTHPPWto" target="_blank">VIDEO SINTESI ADDITIVA E SOTTRATTIVA</a>  
+<a href="https://youtu.be/55Hj6Y4Y4jg" target="_blank">VIDEO MODULAZIONI AM-RM</a>  
 
 LEZIONE 6 - (II On Line)-
-[DISPENSE]({{ site.baseurl }}/come02) - [VIDEO]({{ site.baseurl }}/come02)
+<a href="https://www.academia.edu/42243952/MASTER_DI_ESECUZIONE_ED_INTERPRETAZIONE_DELLA_MUSICA_CONTEMPORANEA_-_LEZIONE_V_-_TECNICHE_DI_SINTESI_E_MODULAZIONE_DEL_SUONO_-01" target="_blank">DISPENSE</a>   
+<a href="https://www.youtube.com/watch?v=9ndq3rCwVB0" target="_blank">VIDEO GRUPPO A</a>  
+<a href="https://www.youtube.com/watch?v=J26jmVos-aY" target="_blank">VIDEO GRUPPO B</a>  

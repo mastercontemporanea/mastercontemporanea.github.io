@@ -10,11 +10,11 @@ permalink: /corsi/
 
 #### Prof. Stefano BRACCI
 
-[COMPOSIZIONE E SEMIOGRAFIA]({{ site.baseurl }}/citera)
+[COMPOSIZIONE E SEMIOGRAFIA]({{ site.baseurl }}/bracci)
 
 #### Prof. Pasquale CITERA
 
-[INTERPRETAZIONE DELLA MUSICA ELETTROACUSTICA]({{ site.baseurl }}/bracci)
+[INTERPRETAZIONE DELLA MUSICA ELETTROACUSTICA]({{ site.baseurl }}/citera)
 
 #### Prof. Franco MIRENZI
 
@@ -22,7 +22,7 @@ permalink: /corsi/
 
 #### Prof. Guido SALVETTI
 
-[ELEMENTI DI COMPOSIZIONE]({{ site.baseurl }}/salvetti)
+[STORIA DELLA MUSICA CONTEMPORANEA]({{ site.baseurl }}/salvetti)
 
 #### Prof. Nicola COLABIANCHI
 

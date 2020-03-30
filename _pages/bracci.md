@@ -1,9 +1,9 @@
 ---
 layout: page
 title: COMPOSIZIONE E SEMIOGRAFIA
-permalink: /comp/
+permalink: /bracci/
 ---
 
 #### Prof. Stefano BRACCI
 
-[MATERIALE 1]({{ site.baseurl }}/come02)
+[MATERIALE 1]({{ site.baseurl }}/bracci)

@@ -1,9 +1,9 @@
 ---
 layout: page
-title: COMPOSIZIONE E SEMIOGRAFIA
-permalink: /comp/
+title: ELEMENTI DI COMPOSIZIONE
+permalink: /mirenzi/
 ---
 
-#### Prof. Stefano BRACCI
+#### Prof. Franco MIRENZI
 
-[MATERIALE 1]({{ site.baseurl }}/come02)
+[ELEMENTI DI COMPOSIZIONE]({{ site.baseurl }}/mirenzi)

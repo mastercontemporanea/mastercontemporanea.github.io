@@ -7,4 +7,4 @@ permalink: /bracci/
 ### Prof. Stefano BRACCI
 #### I SEMESTRE
 
-[MATERIALE 1]({{ site.baseurl }}/bracci)
+[Musica e Comunicazione]<a href="https://mastercontemporanea.github.io/musicacomunicazione/assets/player/KeynoteDHTMLPlayer.html#0" target="_blank">PowerPoint</a>

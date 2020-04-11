@@ -9,6 +9,7 @@ permalink: /opere/
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kbQiOA2v9mo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<a href="https://www.dropbox.com/s/2fy05ibzatb2ada/Intolleranza.pdf?dl=0" target="_blank">ANALISI E LIBRETTO</a>
 
 Testi: H. Alleg, B. Brecht, A. Césaire, P. Eluard, J. Fucík, W. Majakowski, A.M. Ripellino e J.P. Sartre
 
@@ -63,6 +64,8 @@ Laborintus II è un’opera scenica; può essere trattata come una rappresentazi
 
 #### •  SYLVANO BUSSOTTI - LA PASSION SELON SADE [1965]
 
+<a href="https://www.dropbox.com/s/7piy2wc3s35jzpf/bussotti.pdf?dl=0" target="_blank">PARTITURA</a>
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NLjp_gYkg5U?start=431" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -101,6 +104,17 @@ perc, tmb con corda, 2 bongos, 2 tumbas, 2 tp, balafon, mar, gui, 4 go picc,  wi
 
 
 #### •  LUIGI NONO - PROMETEO (Tragedia all'Ascolto)[1981-85]  
+
+<a href="https://www.dropbox.com/s/pqgbvwekzxw5jaf/Cacciari%20-%20Prometeo%20-%20Libretto.pdf?dl=0" target="_blank">LIBRETTO</a>
+
+
+
+<a href="https://www.dropbox.com/s/75ymy5n3zdzu5uw/nono_prometeo.pdf?dl=0" target="_blank">PARTITURA</a>
+
+
+
+
+
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3fP4Hf9jhIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -141,8 +155,9 @@ IX. Stasimo secondo. Quest'ultima parte presenta il sottotitolo "A sonar e a can
 
 
 
-#### •  FAUSTO ROMITELLI - AN INDEX OF METALS [2003]
+#### •  FAUSTO ROMITELLI - AN INDEX OF METALS [2003]  
 
+<a href="https://www.dropbox.com/s/nmw5mwfayr3v0hx/Romitelli_Index.pdf?dl=0" target="_blank">PARTITURA</a>
 
 
 

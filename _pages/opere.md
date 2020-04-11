@@ -28,9 +28,29 @@ Che cosa accade all'Emigrante? Lo sappiamo leggendo ciò che sopravvive del libr
 
 #### • KARLHEINZ STOCKHAUSEN - LICHT
 
+<a href="http://stockhausenspace.blogspot.com/2014/08/a-brief-guide-to-licht-pt-1-drama-and.html" target="_blank">DOCUMENTAZIONE DETTAGLIATA SULL'OPERA</a>
+
+
+
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6JdRTI5mkjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Luciano Berio - Laborintus II
+
+#### • LUCIANO BERIO - LABORINTUS II
+
+
+per voci, strumenti e nastro magnetico (1965)  
+Testo di Edoardo Sanguineti  
+
+Note dell'autore:   
+Composto nel 1965 su commissione dell’O.R.T.F. per celebrare il 700° anniversario della nascita di Dante, Laborintus II prende il titolo dalla raccolta poetica Laborintus di Edoardo Sanguineti.
+Il testo di Laborintus II sviluppa alcuni temi della Vita nuova, del Convivio e della Divina Commedia di Dante e li combina - soprattutto attraverso analogie formali e semantiche - con testi biblici e con scritti di T. S. Eliot, Ezra Pound e Sanguineti stesso.
+Il principale riferimento formale di Laborintus II è il catalogo, inteso nella sua accezione medievale (come per esempio le Etimologie di Isidoro di Siviglia, anch’esse presenti in quest’opera), che mette in relazione i temi danteschi della memoria, della morte e dell’usura - cioè la riduzione di tutte le cose a un solo metro di valore. A volte le parole isolate e le frasi devono essere considerate come entità autonome, altre volte invece vanno ascoltate come parte della struttura sonora concepita come un tutto.
+Il principio del catalogo non si limita solo al testo, ma serve anche da base alla struttura musicale stessa. Visto sotto un certo aspetto, Laborintus II è un catalogo di riferimenti, di atteggiamenti e di semplici tecniche strumentali; un catalogo dal carattere un po’ didattico, come le immagini di un libro scolastico che tratti delle visioni dantesche e del gesto musicale. Le parti strumentali sono sviluppate soprattutto come estensione dell’azione vocale dei cantanti e la breve sequenza di musica elettronica è concepita come prolungamento dell’azione strumentale.
+Laborintus II è un’opera scenica; può essere trattata come una rappresentazione, come una storia, un’allegoria, un documentario, una danza. Può essere rappresentata a scuola, a teatro, in televisione, all’aria aperta e in qualsiasi altro luogo che permetta di riunire un uditorio.  
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ogcy40UhGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 
 Giorgio Battistelli - Experimentum Mundi

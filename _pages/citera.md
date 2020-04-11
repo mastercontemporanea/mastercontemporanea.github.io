@@ -30,3 +30,6 @@ permalink: /citera/
 <a href="https://www.academia.edu/42401099/LEZIONE_VI_-_TECNICHE_DI_SINTESI_E_MODULAZIONE_DEL_SUONO_-_02" target="_blank">DISPENSE</a>   
 <a href="https://www.youtube.com/watch?v=9ndq3rCwVB0" target="_blank">VIDEO GRUPPO A</a>  
 <a href="https://www.youtube.com/watch?v=J26jmVos-aY" target="_blank">VIDEO GRUPPO B</a>  
+
+•LEZIONE bonus - (III On Line)- L'OPERA ELETTROACUSTICA
+[Le Opere Trattate]({{ site.baseurl }}/opere)

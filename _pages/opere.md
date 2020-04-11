@@ -52,6 +52,18 @@ Laborintus II è un’opera scenica; può essere trattata come una rappresentazi
 
 
 
+#### •  SYLVANO BUSSOTTI - LA PASSION SELON SADE [1965]
+
+Primo titolo di un catalogo comprendente diciotto lavori tra opere e balletti, La Passion selon Sade rappresenta probabilmente il lavoro più ardito, sperimentale e innovativo tra quanti creati da Sylvano Bussotti per il teatro musicale. E l’annotazione non è di secondaria portata, anche storica, se si considera che la Passion fu scritta e rappresentata in un’epoca in cui il teatro musicale sperimentale delle avanguardie europee percorreva i suoi primi e ancora timidi passi verso la definizione di una drammaturgia antimelodrammatica e congrua ai nuovi linguaggi. Il libretto – se tale può essere definito – è costituito da un montaggio musicale, sensibile cioè alle assonanze e alle allitterazioni, di parole tratte da libri di Sade e da un sonetto cinquecentesco di Louise Labè, una poetessa di area petrarchista. Sua caratteristica principale è che quasi tutti i versi iniziano con la lettera vocativa ‘O’, con cui viene identificata anche la protagonista dell’opera, ossia il duplice personaggio di Justine-Juliette, le due sorelle che appaiono nei romanzi del marchese de Sade come simboli rispettivamente della virtù, che conduce a una vita di affanni, e del vizio, che conduce a una vita di gioie. Ma ‘O’, nella originalissima grafia musicale del compositore toscano, rappresenta al tempo stesso l’abbreviazione di ‘Organo’, oltre che un esplicito riferimento a Histoire d’O , il romanzo sadomasochista di Pauline Réage. Come suggerisce il sottotitolo, la struttura aleatoria dell’opera è organizzata attorno a dei punti-cardine, ossia dei brani in forma chiusa in parte composti per l’occasione e in parte desunti dal catalogo strumentale del compositore. Tra questi ultimi compaiono Solo , nella versione per organo; Tableau vivant I, ‘Mistico’ ; Tableau vivant II, ‘Libertino’ ; Phrase per oboe, oboe d’amore e corno (un organico bachiano, come bachiana è la sigla B [A] CH – S [A] DE che fornisce il materiale intervallare di base) insieme a Rara per flauto solo. Sarebbe vano cercare di desumere dai materiali testuali e musicali della Passion una qualsiasi conclusione ideologica, etica o filosofica. L’opera non è che un’esibizione di ‘oggetti teatrali’ (testi, personaggi, autore, direttore d’orchestra, musica, scena, luci, colori, azioni, immagini) che interagiscono su piani drammatici differenti e non necessariamente intercomunicanti; ne risulta un teatro totale, di raffinato e seducente estetismo. Come ha scritto Armando Gentilucci: «la più vistosa novità è rappresentata dall’assoluta ambivalenza di attori ed esecutori musicali, secondo un seguito di azioni trapassanti di continuo dalla finzione scenica di costume alla tecnica di esecuzione strumentale fino allo happening puro e semplice». L’organico strumentale comprende: flauto (anche flauto in sol e ottavino), oboe, oboe d’amore, corno, percussioni, due pianoforti (anche celesta e armonium), organo e violoncello. Tra le tante curiosità della partitura – testo caratterizzato da un grafismo di estrema ricercatezza – vi è la precisa prescrizione che la Passion sia diretta esclusivamente dall’autore, l’unico interprete in grado di tessere il filo di una scrittura così aleatoria, con righi che vanno in tutte le direzioni, intersecandosi spesso reciprocamente, e con una notazione precisata solo quanto all’altezza dei suoni. Tra gli interpreti delle rappresentazioni palermitane figura il celebre soprano americano Cathy Barberian, nei panni di Justine/‘O’/Juliette.
+
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/NLjp_gYkg5U?start=431" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 #### •  GIORGIO BATTISTELLI - EXPERIMENTUM MUNDI [1981]
 
@@ -118,9 +130,9 @@ Sezioni:
 2 - Primo Intermezzo   
 3 - Hellucination 1: Drowningirl  
 4 - Secondo Intermezzo  
-5 - Drowningirl II
+5 - Drowningirl II   
 6 - Terzo Intermezzo  
-7 - Drowningirl III
+7 - Drowningirl III   
 8 - Adagio   
 9 - Quarto Intermezzo  
 10 - Hellucination 2/3 : Risingirl/ Earpiercingbells   
@@ -142,6 +154,17 @@ Sezioni:
 
 
 
+#### • SEBASTIAN RIVAS - ALIADOS [2013]
+
+Da un articolo di Repubblica sulla prima italiana dell'opera:
+Sono due rottami della Storia, ma un tempo ne furono i padroni. Sono Augusto Pinochet e Margaret Thatcher raccontati in musica, nel loro incontro del marzo 1999. Il dittatore cileno era ai domiciliari a Londra, bloccato dal giudice Garzon con l’accusa di crimini contro l’umanità. La Signora di Ferro pensò bene di rendergli una visita di cortesia — agghiacciante, documentata su youtube — per ringraziarlo doppiamente: del suo aiuto nella guerra delle Malvine, e per aver portato la democrazia in Cile. Ma in Aliados — l’opera (molto) moderna di Sebastian Rivas, libretto di Esteban Buch, regia di Antoine Gindt, in scena domani al Palladium per il RomaEuropa Festival — Pinochet e Thatcher sono due vecchi tra esaltazione e catatonia. Lui, vestito in giallo brillante, è sulla sedia a rotelle (Lionel Peintre, baritono); in tailleur verde, si vede che lei ha già l’Alzheimer (Nora Petrocenko, mezzosoprano). Proprio come i due vecchi anche i badanti (il baritono Thill Mantero e il soprano Mélanie Boisvert), cantando, citano frasi della vera storia. Un personaggio coperto di grasso, un morto vivente, un soldato della guerra delle Malvine (Richard Dubleski) sarà l’unico a dire la verità. E dirà: «Militari assassini, sono morto in un teatro del nulla, dov’è il corpo del coscritto? Desaparecido».
+«Il personaggio del Coscritto è l’unico di fiction» dice Esteban Buch, francese di origine argentina, professore all’Ecole des Hautes Etudes di Parigi. «Gli ho messo in bocca quello che avevo voglia di dire. Gli altri personaggi, invece, usano quasi sempre frasi dette veramente». Non della stessa generazione (il professore ha 50 anni e il compositore, da poco entrato come “pensionnaire” a Villa Medici, ne ha 38) Buch e Rivas si sono conosciuti in Francia e per anni, ognuno per suo conto, hanno pensato a un’“opera del tempo reale”. Nato in Francia da genitori fuggiti dall’Argentina di Varela, Rivas è arrivato presto alla musica contemporanea. Allievo di Ivan Fedele a Strasburgo, poi di Aperghis e di Lara Morciano all’Ircam di Parigi, il compositore ama la poesia e la Storia. Con Aliados, suo primo grande lavoro, non ha scelto un facile inizio. «L’opera è cantata in spagnolo e in inglese, e ho studiato molto il modo di passare da una lingua all’altra in una stessa frase, senza troppe difficoltà» dice. Immagini scorrono su un grande schermo sulla testa dei personaggi. Immagini di guerra, ma anche di tutto quello che accade in scena. «Come alla televisione, la voce del potere» dice Rivas.
+A ogni personaggio ha dato la voce di uno strumento: Pinochet è il trombone, Thatcher il clarinetto, l’aiutante del dittatore è il piano e l’infermiera di lei è il violino, sono tutti in scena diretti da Léo Warynski. «Il Coscritto è la chitarra elettrica. La sua vocalità rotta, spezzata, rappresenta l’uomo del ventunesimo secolo» dice Rivas autore di una partitura assai poco melodica. In Aliados Pinochet e Thatcher si faranno regali e complimenti, ricorderanno la loro alleanza del 1982 quando la Gran Bretagna invase le Malvine-Falklands — tanto che scomparvero dalla carta geografica dell’Argentina — balleranno perfino un tango patetico e traballante. «Siamo alleati, siamo invincibili» cantano alla fine, mano nella mano. «Per la prossima guerra conti su di me» le grida lui dalla sua carrozzella, mentre lei, con aria assente e sguardo nel vuoto, è condotta via dalla badante.
 
 
-Sebastian Rivas - Aliados
+<a href="https://medias.ircam.fr/x43303d" target="_blank">Masterclass di Rivas su Aliados </a>
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2sobYeFzmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

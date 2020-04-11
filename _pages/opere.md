@@ -65,8 +65,8 @@ Laborintus II è un’opera scenica; può essere trattata come una rappresentazi
 
 
 
-
 <iframe width="560" height="315" src="https://www.youtube.com/embed/NLjp_gYkg5U?start=431" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
@@ -101,7 +101,6 @@ perc, tmb con corda, 2 bongos, 2 tumbas, 2 tp, balafon, mar, gui, 4 go picc,  wi
 
 
 #### •  LUIGI NONO - PROMETEO (Tragedia all'Ascolto)[1981-85]  
-
 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/3fP4Hf9jhIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

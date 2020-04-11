@@ -5,11 +5,11 @@ permalink: /opere/
 ---
 
 
-#### • LUIGI NONO - INTOLLERANZA 1960
+#### • LUIGI NONO - INTOLLERANZA [1960]
 
 Testi: H. Alleg, B. Brecht, A. Césaire, P. Eluard, J. Fucík, W. Majakowski, A.M. Ripellino e J.P. Sartre
 
-Organico: 3 Flauti in Sol, 3 Oboi, 3 Clarinetti in Sib (anche Clarinetto basso), 3 Fagotti, 6 Corni in Fa, 4 Trombe in Do, 4 Tromboni, Timpani, Percussioni, Celesta, Arpa, Arch, nastro elettronico.
+Organico: 3 Flauti in Sol, 3 Oboi, 3 Clarinetti in Sib (anche Clarinetto basso), 3 Fagotti, 6 Corni in Fa, 4 Trombe in Do, 4 Tromboni, Timpani, Percussioni, Celesta, Arpa, Archi, Nastro Elettronico.
 
 Dedica: 'Arnold Schoenberg gewidmet'
 
@@ -26,7 +26,7 @@ Che cosa accade all'Emigrante? Lo sappiamo leggendo ciò che sopravvive del libr
 
 
 
-#### • KARLHEINZ STOCKHAUSEN - LICHT
+#### • KARLHEINZ STOCKHAUSEN - LICHT [1977-2003]
 
 <a href="http://stockhausenspace.blogspot.com/2014/08/a-brief-guide-to-licht-pt-1-drama-and.html" target="_blank">DOCUMENTAZIONE DETTAGLIATA SULL'OPERA</a>
 
@@ -35,10 +35,10 @@ Che cosa accade all'Emigrante? Lo sappiamo leggendo ciò che sopravvive del libr
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6JdRTI5mkjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-#### • LUCIANO BERIO - LABORINTUS II
+#### • LUCIANO BERIO - LABORINTUS II [1965]
 
 
-per voci, strumenti e nastro magnetico (1965)  
+per voci, strumenti e nastro magnetico   
 Testo di Edoardo Sanguineti  
 
 Note dell'autore:   
@@ -53,7 +53,20 @@ Laborintus II è un’opera scenica; può essere trattata come una rappresentazi
 
 
 
-Giorgio Battistelli - Experimentum Mundi
+#### •  GIORGIO BATTISTELLI - EXPERIMENTUM MUNDI [1981]
+
+<em>Mi trovavo nella piazza del mio paese, Albano Laziale, e sentivo da lontano i suoni del lavoro di un calzolaio, la pulsazione del battere sulle suole, sul cuoio. Mi resi conto che non era possibile trascrivere fedelmente il ritmo di questo lavoro, facendolo suonare a musicisti “veri”. Ma tutto risultava troppo preciso e innaturale e così chiamai a raccolta gli artigiani del paese, tra bottai, ciabattini, muratori, pasticceri, fabbri ecc, mettendoli tutti insieme in un gruppo che avrebbe dovuto “suonare” i propri strumenti di lavoro, al contempo esercitando il mestiere.</em>
+
+Opera di musica immaginistica per un attore, cinque voci naturali di donne, sedici artigiani e un percussionista Libretto di Giorgio Battistelli dall’Encyclopédie ou Dictionnaire raisonné des sciences, des arts et des métiers di Denis Diderot e Jean Le Rond D’Alembert
+
+
+Experimentum Mundi è un opera di teatro musicale che ha come protagonisti sedici artigiani, quattro voci femminili naturali, un percussionista e un attore. Mentre vengono recitate le didascalie delle illustrazioni dell’Encyclopédie illuministica di Diderot e D’Alembert, che descrivono gli attrezzi dei mestieri rappresentati sulla scena, pagina dopo pagina risorge un autentico villaggio di suoni. Si tratta del paese di origine di Giorgio Battistelli, Albano Laziale, dove vivono e lavorano coloro che in Experimentum Mundi sono performer delle loro stesse professioni, occupazioni al giorno d’oggi in via d’estinzione: il pasticciere, i calzolai, gli arrotini, i falegnami, i bottai, i fabbri ferrai, i selciaoli, lo scalpellino, i muratori, con alcune mogli al seguito, a comporre il coro delle donne. Alla fine della rappresentazione ogni artigiano realizza sulla scena il proprio manufatto, in perfetta sincronia con i tempi musicali e teatrali previsti dalla partitura, in un gioco d’incastri timbrici e ritmici che esaltano gesti forgiati da un’antica tradizione. Una drammaturgia del lavoro, un rito che propizia l’arrestarsi del tempo, omaggio a un teatro privato della memoria.
+
+
+Organico (con amplificazione microfonica):
+perc, tmb con corda, 2 bongos, 2 tumbas, 2 tp, balafon, mar, gui, 4 go picc,  wind chimes, t bl, 4 w bl, maracas, claves, tmb di legno, rag, 3 roto tom, crot, t-t grande, 3 g flex con arco, 4 ps, campanacci, 2 fusti di metallo, 2 cmp tbl, 3 trg, 2 lst di metallo, sonagli di metallo, spring guiro, tmb con corda, 6 t-tom, gc sinfonica, gui, tamburello basco, 4 go picc, t-t grande [testo disponibile in italiano, francese, inglese e tedesco]
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1SjFoSi7zLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 Luigi Nono - Prometeo
 

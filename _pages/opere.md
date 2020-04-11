@@ -5,7 +5,7 @@ permalink: /opere/
 ---
 
 
-• #### LUIGI NONO - INTOLLERANZA 1960
+#### • LUIGI NONO - INTOLLERANZA 1960
 
 Testi: H. Alleg, B. Brecht, A. Césaire, P. Eluard, J. Fucík, W. Majakowski, A.M. Ripellino e J.P. Sartre
 
@@ -26,7 +26,7 @@ Che cosa accade all'Emigrante? Lo sappiamo leggendo ciò che sopravvive del libr
 
 
 
-• #### KARLHEINZ STOCKHAUSEN - LICHT
+#### • KARLHEINZ STOCKHAUSEN - LICHT
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6JdRTI5mkjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

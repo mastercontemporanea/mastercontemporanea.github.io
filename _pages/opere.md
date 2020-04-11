@@ -7,6 +7,9 @@ permalink: /opere/
 
 #### • LUIGI NONO - INTOLLERANZA [1960]
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kbQiOA2v9mo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 Testi: H. Alleg, B. Brecht, A. Césaire, P. Eluard, J. Fucík, W. Majakowski, A.M. Ripellino e J.P. Sartre
 
 Organico: 3 Flauti in Sol, 3 Oboi, 3 Clarinetti in Sib (anche Clarinetto basso), 3 Fagotti, 6 Corni in Fa, 4 Trombe in Do, 4 Tromboni, Timpani, Percussioni, Celesta, Arpa, Archi, Nastro Elettronico.
@@ -20,7 +23,7 @@ Che cosa accade all'Emigrante? Lo sappiamo leggendo ciò che sopravvive del libr
 
 (da: Eugenio Montale, "Prima mondiale a Venezia dell'Intolleranza 1960", Corriere di Informazione, 14 aprile 1961)
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kbQiOA2v9mo" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
@@ -28,14 +31,21 @@ Che cosa accade all'Emigrante? Lo sappiamo leggendo ciò che sopravvive del libr
 
 #### • KARLHEINZ STOCKHAUSEN - LICHT [1977-2003]
 
-<a href="http://stockhausenspace.blogspot.com/2014/08/a-brief-guide-to-licht-pt-1-drama-and.html" target="_blank">DOCUMENTAZIONE DETTAGLIATA SULL'OPERA</a>
-
-
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/6JdRTI5mkjc" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-#### • LUCIANO BERIO - LABORINTUS II [1965]
+
+<a href="http://stockhausenspace.blogspot.com/2014/08/a-brief-guide-to-licht-pt-1-drama-and.html" target="_blank">DOCUMENTAZIONE DETTAGLIATA SULL'OPERA</a>
+
+
+
+
+
+#### • LUCIANO BERIO - LABORINTUS II [1965]  
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6ogcy40UhGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 per voci, strumenti e nastro magnetico   
@@ -48,14 +58,10 @@ Il principale riferimento formale di Laborintus II è il catalogo, inteso nella 
 Il principio del catalogo non si limita solo al testo, ma serve anche da base alla struttura musicale stessa. Visto sotto un certo aspetto, Laborintus II è un catalogo di riferimenti, di atteggiamenti e di semplici tecniche strumentali; un catalogo dal carattere un po’ didattico, come le immagini di un libro scolastico che tratti delle visioni dantesche e del gesto musicale. Le parti strumentali sono sviluppate soprattutto come estensione dell’azione vocale dei cantanti e la breve sequenza di musica elettronica è concepita come prolungamento dell’azione strumentale.
 Laborintus II è un’opera scenica; può essere trattata come una rappresentazione, come una storia, un’allegoria, un documentario, una danza. Può essere rappresentata a scuola, a teatro, in televisione, all’aria aperta e in qualsiasi altro luogo che permetta di riunire un uditorio.  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/6ogcy40UhGg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 #### •  SYLVANO BUSSOTTI - LA PASSION SELON SADE [1965]
-
-Primo titolo di un catalogo comprendente diciotto lavori tra opere e balletti, La Passion selon Sade rappresenta probabilmente il lavoro più ardito, sperimentale e innovativo tra quanti creati da Sylvano Bussotti per il teatro musicale. E l’annotazione non è di secondaria portata, anche storica, se si considera che la Passion fu scritta e rappresentata in un’epoca in cui il teatro musicale sperimentale delle avanguardie europee percorreva i suoi primi e ancora timidi passi verso la definizione di una drammaturgia antimelodrammatica e congrua ai nuovi linguaggi. Il libretto – se tale può essere definito – è costituito da un montaggio musicale, sensibile cioè alle assonanze e alle allitterazioni, di parole tratte da libri di Sade e da un sonetto cinquecentesco di Louise Labè, una poetessa di area petrarchista. Sua caratteristica principale è che quasi tutti i versi iniziano con la lettera vocativa ‘O’, con cui viene identificata anche la protagonista dell’opera, ossia il duplice personaggio di Justine-Juliette, le due sorelle che appaiono nei romanzi del marchese de Sade come simboli rispettivamente della virtù, che conduce a una vita di affanni, e del vizio, che conduce a una vita di gioie. Ma ‘O’, nella originalissima grafia musicale del compositore toscano, rappresenta al tempo stesso l’abbreviazione di ‘Organo’, oltre che un esplicito riferimento a Histoire d’O , il romanzo sadomasochista di Pauline Réage. Come suggerisce il sottotitolo, la struttura aleatoria dell’opera è organizzata attorno a dei punti-cardine, ossia dei brani in forma chiusa in parte composti per l’occasione e in parte desunti dal catalogo strumentale del compositore. Tra questi ultimi compaiono Solo , nella versione per organo; Tableau vivant I, ‘Mistico’ ; Tableau vivant II, ‘Libertino’ ; Phrase per oboe, oboe d’amore e corno (un organico bachiano, come bachiana è la sigla B [A] CH – S [A] DE che fornisce il materiale intervallare di base) insieme a Rara per flauto solo. Sarebbe vano cercare di desumere dai materiali testuali e musicali della Passion una qualsiasi conclusione ideologica, etica o filosofica. L’opera non è che un’esibizione di ‘oggetti teatrali’ (testi, personaggi, autore, direttore d’orchestra, musica, scena, luci, colori, azioni, immagini) che interagiscono su piani drammatici differenti e non necessariamente intercomunicanti; ne risulta un teatro totale, di raffinato e seducente estetismo. Come ha scritto Armando Gentilucci: «la più vistosa novità è rappresentata dall’assoluta ambivalenza di attori ed esecutori musicali, secondo un seguito di azioni trapassanti di continuo dalla finzione scenica di costume alla tecnica di esecuzione strumentale fino allo happening puro e semplice». L’organico strumentale comprende: flauto (anche flauto in sol e ottavino), oboe, oboe d’amore, corno, percussioni, due pianoforti (anche celesta e armonium), organo e violoncello. Tra le tante curiosità della partitura – testo caratterizzato da un grafismo di estrema ricercatezza – vi è la precisa prescrizione che la Passion sia diretta esclusivamente dall’autore, l’unico interprete in grado di tessere il filo di una scrittura così aleatoria, con righi che vanno in tutte le direzioni, intersecandosi spesso reciprocamente, e con una notazione precisata solo quanto all’altezza dei suoni. Tra gli interpreti delle rappresentazioni palermitane figura il celebre soprano americano Cathy Barberian, nei panni di Justine/‘O’/Juliette.
-
 
 
 
@@ -64,8 +70,20 @@ Primo titolo di un catalogo comprendente diciotto lavori tra opere e balletti, L
 
 
 
+Primo titolo di un catalogo comprendente diciotto lavori tra opere e balletti, La Passion selon Sade rappresenta probabilmente il lavoro più ardito, sperimentale e innovativo tra quanti creati da Sylvano Bussotti per il teatro musicale. E l’annotazione non è di secondaria portata, anche storica, se si considera che la Passion fu scritta e rappresentata in un’epoca in cui il teatro musicale sperimentale delle avanguardie europee percorreva i suoi primi e ancora timidi passi verso la definizione di una drammaturgia antimelodrammatica e congrua ai nuovi linguaggi. Il libretto – se tale può essere definito – è costituito da un montaggio musicale, sensibile cioè alle assonanze e alle allitterazioni, di parole tratte da libri di Sade e da un sonetto cinquecentesco di Louise Labè, una poetessa di area petrarchista. Sua caratteristica principale è che quasi tutti i versi iniziano con la lettera vocativa ‘O’, con cui viene identificata anche la protagonista dell’opera, ossia il duplice personaggio di Justine-Juliette, le due sorelle che appaiono nei romanzi del marchese de Sade come simboli rispettivamente della virtù, che conduce a una vita di affanni, e del vizio, che conduce a una vita di gioie. Ma ‘O’, nella originalissima grafia musicale del compositore toscano, rappresenta al tempo stesso l’abbreviazione di ‘Organo’, oltre che un esplicito riferimento a Histoire d’O , il romanzo sadomasochista di Pauline Réage. Come suggerisce il sottotitolo, la struttura aleatoria dell’opera è organizzata attorno a dei punti-cardine, ossia dei brani in forma chiusa in parte composti per l’occasione e in parte desunti dal catalogo strumentale del compositore. Tra questi ultimi compaiono Solo , nella versione per organo; Tableau vivant I, ‘Mistico’ ; Tableau vivant II, ‘Libertino’ ; Phrase per oboe, oboe d’amore e corno (un organico bachiano, come bachiana è la sigla B [A] CH – S [A] DE che fornisce il materiale intervallare di base) insieme a Rara per flauto solo. Sarebbe vano cercare di desumere dai materiali testuali e musicali della Passion una qualsiasi conclusione ideologica, etica o filosofica. L’opera non è che un’esibizione di ‘oggetti teatrali’ (testi, personaggi, autore, direttore d’orchestra, musica, scena, luci, colori, azioni, immagini) che interagiscono su piani drammatici differenti e non necessariamente intercomunicanti; ne risulta un teatro totale, di raffinato e seducente estetismo. Come ha scritto Armando Gentilucci: «la più vistosa novità è rappresentata dall’assoluta ambivalenza di attori ed esecutori musicali, secondo un seguito di azioni trapassanti di continuo dalla finzione scenica di costume alla tecnica di esecuzione strumentale fino allo happening puro e semplice». L’organico strumentale comprende: flauto (anche flauto in sol e ottavino), oboe, oboe d’amore, corno, percussioni, due pianoforti (anche celesta e armonium), organo e violoncello. Tra le tante curiosità della partitura – testo caratterizzato da un grafismo di estrema ricercatezza – vi è la precisa prescrizione che la Passion sia diretta esclusivamente dall’autore, l’unico interprete in grado di tessere il filo di una scrittura così aleatoria, con righi che vanno in tutte le direzioni, intersecandosi spesso reciprocamente, e con una notazione precisata solo quanto all’altezza dei suoni. Tra gli interpreti delle rappresentazioni palermitane figura il celebre soprano americano Cathy Barberian, nei panni di Justine/‘O’/Juliette.
+
+
+
+
+
+
 
 #### •  GIORGIO BATTISTELLI - EXPERIMENTUM MUNDI [1981]
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1SjFoSi7zLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 <em>Mi trovavo nella piazza del mio paese, Albano Laziale, e sentivo da lontano i suoni del lavoro di un calzolaio, la pulsazione del battere sulle suole, sul cuoio. Mi resi conto che non era possibile trascrivere fedelmente il ritmo di questo lavoro, facendolo suonare a musicisti “veri”. Ma tutto risultava troppo preciso e innaturale e così chiamai a raccolta gli artigiani del paese, tra bottai, ciabattini, muratori, pasticceri, fabbri ecc, mettendoli tutti insieme in un gruppo che avrebbe dovuto “suonare” i propri strumenti di lavoro, al contempo esercitando il mestiere.</em>
 
@@ -78,11 +96,17 @@ Experimentum Mundi è un opera di teatro musicale che ha come protagonisti sedic
 Organico (con amplificazione microfonica):
 perc, tmb con corda, 2 bongos, 2 tumbas, 2 tp, balafon, mar, gui, 4 go picc,  wind chimes, t bl, 4 w bl, maracas, claves, tmb di legno, rag, 3 roto tom, crot, t-t grande, 3 g flex con arco, 4 ps, campanacci, 2 fusti di metallo, 2 cmp tbl, 3 trg, 2 lst di metallo, sonagli di metallo, spring guiro, tmb con corda, 6 t-tom, gc sinfonica, gui, tamburello basco, 4 go picc, t-t grande [testo disponibile in italiano, francese, inglese e tedesco]  
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/1SjFoSi7zLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 
 #### •  LUIGI NONO - PROMETEO (Tragedia all'Ascolto)[1981-85]  
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fP4Hf9jhIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 Testi: a cura di Massimo Cacciari, da Walter Benjamin (Sul concetto di storia), Eschilo (Prometeo incatenato), Euripide (Alcesti), Johann Wolfgang von Goethe (Prometeo), Erodoto (Storie I, 32), Esiodo (Teogonia), Friedrich Hölderlin (Schicksalslied e Achill), Pindaro (Nemea, VI), Arnold Schoenberg (Das Gesetz e Moses und Aaron) e Sofocle (Edipo a Colono)
 
@@ -115,11 +139,18 @@ IX. Stasimo secondo. Quest'ultima parte presenta il sottotitolo "A sonar e a can
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/3fP4Hf9jhIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 #### •  FAUSTO ROMITELLI - AN INDEX OF METALS [2003]
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CN10YxG3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 Organico:
 soprano solo, Flauto, Oboe, Clarinetto, Tromba, Trombone, Chitarra Elettrica, Pianoforte, (con Tastiera MIDI con campionatore), Violino, Viola, Violoncello, Basso Elettrico, Sequenze Elettroniche e Live Electronics.
@@ -149,12 +180,15 @@ Sezioni:
 
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9CN10YxG3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-
 
 
 #### • SEBASTIAN RIVAS - ALIADOS [2013]
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z2sobYeFzmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 
 Da un articolo di Repubblica sulla prima italiana dell'opera:
 Sono due rottami della Storia, ma un tempo ne furono i padroni. Sono Augusto Pinochet e Margaret Thatcher raccontati in musica, nel loro incontro del marzo 1999. Il dittatore cileno era ai domiciliari a Londra, bloccato dal giudice Garzon con l’accusa di crimini contro l’umanità. La Signora di Ferro pensò bene di rendergli una visita di cortesia — agghiacciante, documentata su youtube — per ringraziarlo doppiamente: del suo aiuto nella guerra delle Malvine, e per aver portato la democrazia in Cile. Ma in Aliados — l’opera (molto) moderna di Sebastian Rivas, libretto di Esteban Buch, regia di Antoine Gindt, in scena domani al Palladium per il RomaEuropa Festival — Pinochet e Thatcher sono due vecchi tra esaltazione e catatonia. Lui, vestito in giallo brillante, è sulla sedia a rotelle (Lionel Peintre, baritono); in tailleur verde, si vede che lei ha già l’Alzheimer (Nora Petrocenko, mezzosoprano). Proprio come i due vecchi anche i badanti (il baritono Thill Mantero e il soprano Mélanie Boisvert), cantando, citano frasi della vera storia. Un personaggio coperto di grasso, un morto vivente, un soldato della guerra delle Malvine (Richard Dubleski) sarà l’unico a dire la verità. E dirà: «Militari assassini, sono morto in un teatro del nulla, dov’è il corpo del coscritto? Desaparecido».
@@ -163,8 +197,3 @@ A ogni personaggio ha dato la voce di uno strumento: Pinochet è il trombone, Th
 
 
 <a href="https://medias.ircam.fr/x43303d" target="_blank">Masterclass di Rivas su Aliados </a>
-
-
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/z2sobYeFzmE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

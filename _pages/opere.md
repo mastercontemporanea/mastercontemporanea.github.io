@@ -68,6 +68,8 @@ perc, tmb con corda, 2 bongos, 2 tumbas, 2 tp, balafon, mar, gui, 4 go picc,  wi
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1SjFoSi7zLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
 #### •  LUIGI NONO - PROMETEO (Tragedia all'Ascolto)[1981-85]  
 
 Testi: a cura di Massimo Cacciari, da Walter Benjamin (Sul concetto di storia), Eschilo (Prometeo incatenato), Euripide (Alcesti), Johann Wolfgang von Goethe (Prometeo), Erodoto (Storie I, 32), Esiodo (Teogonia), Friedrich Hölderlin (Schicksalslied e Achill), Pindaro (Nemea, VI), Arnold Schoenberg (Das Gesetz e Moses und Aaron) e Sofocle (Edipo a Colono)
@@ -105,7 +107,41 @@ IX. Stasimo secondo. Quest'ultima parte presenta il sottotitolo "A sonar e a can
 
 
 
+#### •  FAUSTO ROMITELLI - AN INDEX OF METALS [2003]
 
-Fausto Romitelli - An Index of Metals
+Organico:
+soprano solo, Flauto, Oboe, Clarinetto, Tromba, Trombone, Chitarra Elettrica, Pianoforte, (con Tastiera MIDI con campionatore), Violino, Viola, Violoncello, Basso Elettrico, Sequenze Elettroniche e Live Electronics.
+
+Sezioni:
+
+1 - Introduzione   
+2 - Primo Intermezzo   
+3 - Hellucination 1: Drowningirl  
+4 - Secondo Intermezzo  
+5 - Drowningirl II
+6 - Terzo Intermezzo  
+7 - Drowningirl III
+8 - Adagio   
+9 - Quarto Intermezzo  
+10 - Hellucination 2/3 : Risingirl/ Earpiercingbells   
+11 - Finale   
+12 - Cadenza   
+
+<a href="https://www.ictus.be/index-metals-lyrics" target="_blank">Testo Originale</a>   
+
+<a href="https://www.ictus.be/blog/fausto-romitelli-short-index-eric-denut" target="_blank">Una lettura di Index a cura di Eric Denut</a>
+
+
+<a href="https://issuu.com/ictus-ensemble/docs/index_hellucination1" target="_blank">Estratto della partitura. Parte 3: Hellucination 1</a>
+
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9CN10YxG3p0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+
 
 Sebastian Rivas - Aliados

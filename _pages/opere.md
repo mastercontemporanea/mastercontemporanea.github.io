@@ -64,11 +64,47 @@ Experimentum Mundi è un opera di teatro musicale che ha come protagonisti sedic
 
 
 Organico (con amplificazione microfonica):
-perc, tmb con corda, 2 bongos, 2 tumbas, 2 tp, balafon, mar, gui, 4 go picc,  wind chimes, t bl, 4 w bl, maracas, claves, tmb di legno, rag, 3 roto tom, crot, t-t grande, 3 g flex con arco, 4 ps, campanacci, 2 fusti di metallo, 2 cmp tbl, 3 trg, 2 lst di metallo, sonagli di metallo, spring guiro, tmb con corda, 6 t-tom, gc sinfonica, gui, tamburello basco, 4 go picc, t-t grande [testo disponibile in italiano, francese, inglese e tedesco]
+perc, tmb con corda, 2 bongos, 2 tumbas, 2 tp, balafon, mar, gui, 4 go picc,  wind chimes, t bl, 4 w bl, maracas, claves, tmb di legno, rag, 3 roto tom, crot, t-t grande, 3 g flex con arco, 4 ps, campanacci, 2 fusti di metallo, 2 cmp tbl, 3 trg, 2 lst di metallo, sonagli di metallo, spring guiro, tmb con corda, 6 t-tom, gc sinfonica, gui, tamburello basco, 4 go picc, t-t grande [testo disponibile in italiano, francese, inglese e tedesco]  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/1SjFoSi7zLk" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Luigi Nono - Prometeo
+#### •  LUIGI NONO - PROMETEO (Tragedia all'Ascolto)[1981-85]  
+
+Testi: a cura di Massimo Cacciari, da Walter Benjamin (Sul concetto di storia), Eschilo (Prometeo incatenato), Euripide (Alcesti), Johann Wolfgang von Goethe (Prometeo), Erodoto (Storie I, 32), Esiodo (Teogonia), Friedrich Hölderlin (Schicksalslied e Achill), Pindaro (Nemea, VI), Arnold Schoenberg (Das Gesetz e Moses und Aaron) e Sofocle (Edipo a Colono)
+
+Organico: 2 Soprani; 2 Contralti; 1 Tenore; 2 Voci recitanti; Flauto contrabbasso e basso, Flauto, Ottavino; Clarinetto contrabbasso (Si♭), Clarinetto (Si♭), piccolo (Mi♭); Basso tuba, Trombone tenore-basso, Trombone contralto, Euphonium; Viola; Violoncello; Contrabbasso; 7 Vetri (2 musicisti); Coro misto (3 Soprani, 3 Contralti, 3 Tenori, 3 Bassi); 4 gruppi strumentali, ciascuno costituito da: 1 Flauto (anche Ottavino), 1 Clarinetto, 1 Fagotto, 1 Corno, 1 Tromba, 1 Trombone, 4 Violini, 1 Viola, 1 Violoncello, 1 Contrabbasso; live electronics
+
+
+Renzo Piano, Spazio Musicale – Emilio Vedova, Interventi Luce
+
+L'opera è suddivisa in nove parti in ciascuna delle quali si impiega un organico differente.
+
+I. Prologo. Le voci soliste recitano passi della Cosmogonia di Esiodo, mentre altre voci soliste e il coro cantano brani in prosa tratti da Benjamin, che fungono da commento a Esiodo, a mo' di tropo medievale.
+
+II. "Isola prima". Dialogo tra il trio d'archi e i gruppi orchestrali: il testo è costituito dalla narrazione da parte di Prometeo delle proprie gesta e dal racconto di Efesto del castigo inflitto a Prometeo da Zeus.
+
+III. "Isola seconda". Questa parte si suddivide a sua volta in tre momenti distinti: "Io-Prometeo", sovrapposizione di parole di Io, figlia di Inachos, e di Prometeo, che profetizza le future sofferenze di Io; 'Hölderlin', frammento del celeberrimo Schicksalslied del poeta tedesco, cantato dal coro; lo 'Stasimo primo', susseguirsi di frammenti musicali di poche battute, che variano continuamente in senso dinamico e agogico.
+
+IV. Interludio primo. Pur brevissimo, è il momento culminante dell'opera. Sul testo del Maestro del gioco di Cacciari, voci soliste e strumenti disegnano un arabesco sempre ai limiti dell'udibilità o dell'inudibilità.
+
+V. "Tre voci"'. Prevede la sovrapposizione di tre livelli sonori costituiti il primo da tre voci soliste, il secondo da euphoniun, flauto basso, clarinetto basso e vetri; il terzo da un impercettibile sfondo sonoro degli archi; il testo comprende ancora frammenti da Il Maestro del gioco.
+
+VI. "Terza, quarta e quinta isola". I materiali delle tre 'isole', ciascuna caratterizzata da un organico vocale e strumentale differente, vengono sottoposti a processi di frantumazione; il coro esegue una "eco lontana".
+
+VII. "Tre voci b". Il coro, qui a cappella, intona frammenti di testi di Benjamin, mentre riaffiorano frammenti delle 'isole' precedenti.
+
+VIII. Interludio secondo. E' un brano orchestrale che combina i suoni gravi con quelli trattati elettronicamente delle campane di vetro: sono compresenti otto indicazioni agogiche differenti.
+
+IX. Stasimo secondo. Quest'ultima parte presenta il sottotitolo "A sonar e a cantar", che rimanda alla tradizione veneziana dei 'cori battenti', quale era praticata da Giovanni e Andrea Gabrieli nel Cinquecento. Il testo in versi di Cacciari indica l'apertura di "molteplici vie" e "molteplici silenzi"; un brano di profondo lirismo, che coinvolge l'intero organico vocale e orchestrale.
+
+[da: Dizionario dell'Opera, a cura di Pietro Gelli, Milano, 1996, Baldini & Castoldi pag. 1016-1017]
+
+
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/3fP4Hf9jhIU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
 
 Fausto Romitelli - An Index of Metals
 

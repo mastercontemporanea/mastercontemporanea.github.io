@@ -7,7 +7,7 @@ permalink: /bracci/
 ### Prof. Stefano BRACCI
 #### I SEMESTRE
 
-N.B. Alcune Slide hanno l'esempio audio-video che parte al secondo Click)
+N.B. Alcune Slide hanno l'esempio audio-video che parte al secondo click
 
 
 ##### • Musica e Comunicazione <a href="https://mastercontemporanea.github.io/musicacomunicazione/assets/player/KeynoteDHTMLPlayer.html#0" target="_blank"> Slide</a>  

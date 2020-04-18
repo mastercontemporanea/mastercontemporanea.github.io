@@ -23,14 +23,15 @@ ASCOLTA
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/eN8cUs0-HkE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
- e del giovane pianista Sergej Prokofiev (Suggestione diabolica)
-ASCOLTA Evgenij Kissim che esegue Suggestion diabolique di Prokofiev (1912)
+ e del giovane pianista Sergej Prokofiev (Suggestione diabolica)   
+
+ASCOLTA Evgenij Kissin che esegue *Suggestion Diabolique* di Prokofiev (1912)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/45mXvaIW02c" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Tra gli aspetti delle avanguardie russe degli anni precedenti la prima guerra mondiale, ricordiamo, in pittura, il cosiddetto suprematismo di Vladimir Malevic. Suggerisco un bell’articolo su Malevic e l’astrattismo russo che potete LEGGERE al sito
+Tra gli aspetti delle avanguardie russe degli anni precedenti la prima guerra mondiale, ricordiamo, in pittura, il cosiddetto suprematismo di Vladimir Malevic. Suggerisco un bell’articolo su Malevic e l’astrattismo russo che potete LEGGERE al sito   
 
-https://lasottilelineadombra.com/2018/07/10/kazimir-malevic-10-opere-astrattismo/
+<https://lasottilelineadombra.com/2018/07/10/kazimir-malevic-10-opere-astrattismo/>    
 
 come potete vedere, alcuni di questi quadri ricordano l’astrattismo di Kandinsky e altri Braque  e Picasso
 

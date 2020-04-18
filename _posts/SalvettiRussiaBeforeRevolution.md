@@ -1,7 +1,8 @@
 ---
-layout: post
+layout: page
 title: Musica in URSS nel primo Novecento
-categories: [Salvetti, Storia della Musica]
+permalink: /russiabeforerevolution/
+
 ---
 
 

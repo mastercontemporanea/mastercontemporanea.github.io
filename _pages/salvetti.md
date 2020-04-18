@@ -35,4 +35,4 @@ permalink: /salvetti/
 
 •Musica in URSS nel Primo Novecento
 
-[In Russia Prima della Rivoluzione]({{ site.baseurl }}/_posts/SalvettiRussiaBeforeRevolution.md)
+[In Russia Prima della Rivoluzione]({{ site.baseurl }}/_posts/russiabeforerevolution)

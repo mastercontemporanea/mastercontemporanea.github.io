@@ -7,9 +7,9 @@ permalink: /russiabeforerevolution/
 
 
 ##### Approfondimento n. 1
-#### Musica in URSS nel primo Novecento -
+#### Prima della Rivoluzione Bolscevica -
 
-Prima della rivoluzione bolscevica: la storia della musica nell’Impero russo segue in tutto l’evoluzione della musica europea tra Otto e Novecento con un rapporto privilegiato con Parigi.
+La storia della musica nell’Impero russo segue in tutto l’evoluzione della musica europea tra Otto e Novecento con un rapporto privilegiato con Parigi.
 Pietroburgo e Mosca vennero dotate di conservatori modellati su quello di Parigi. I teatri allestivano opere italiane o francesi. Le sale da concerto principali programmavano regolarmente musiche del repertorio classico-romantico tedesco. A questa tradizione appartiene pienamente sia il sinfonismo di Cajkovskij, che quello di Rimski-Korsakov e il balletto di Pétipa.
 Anche Igor Stravinsky nasce in questo ambito con la musica per il balletto Feu d’artifice.
 Negli anni precedenti la prima guerra mondiale la Russia partecipò a tutte le avanguardie europee. A Pietroburgo e a Mosca nacque la corrente del futurismo russo. Il principio di base, come quello italiano, fu di introdurre nelle forme pittoriche e scultoree l’energia e l movimento tipici dell’era delle maccnine, e trovò espressione con esiti simili a quelli, per esempio, di Boccioni e Balla.   

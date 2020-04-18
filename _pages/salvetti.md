@@ -31,3 +31,8 @@ permalink: /salvetti/
 
 •MAIL INVIATE    
 <a href="https://www.dropbox.com/sh/y6br73u9th0kw7d/AADs-DAhC1fapFI9HceLoHJTa?dl=0&preview=Mail+inviate.docx" target="_blank">ELENCO</a>
+
+
+•Musica in URSS nel Primo Novecento
+
+[In Russia Prima della Rivoluzione]({{ site.baseurl }}/_posts/SalvettiRussiaBeforeRevolution.md)

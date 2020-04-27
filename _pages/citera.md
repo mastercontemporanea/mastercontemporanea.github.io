@@ -21,12 +21,12 @@ permalink: /citera/
 •LEZIONE 4 - TEORIA DEL CAMPIONAMENTO   
 <a href="https://www.academia.edu/24263813/LEZIONE_IV_-_IL_SUONO_DIGITALE._TEORIA_DEL_CAMPIONAMENTO" target="_blank">DISPENSE</a>   
 
-•LEZIONE 5 - (I On Line) - SINTESI E MODULAZIONE DEL SUONO- I parte
+•LEZIONE 5 - (I On Line) - SINTESI E MODULAZIONE DEL SUONO- I parte   
 <a href="https://www.academia.edu/42243952/LEZIONE_V_-_TECNICHE_DI_SINTESI_E_MODULAZIONE_DEL_SUONO_-01" target="_blank">DISPENSE</a>  
 <a href="https://www.youtube.com/watch?v=qlWnTHPPWto" target="_blank">VIDEO SINTESI ADDITIVA E SOTTRATTIVA</a>  
 <a href="https://youtu.be/55Hj6Y4Y4jg" target="_blank">VIDEO MODULAZIONI AM-RM</a>  
 
-•LEZIONE 6 - (II On Line)- SINTESI E MODULAZIONE DEL SUONO - II  parte
+•LEZIONE 6 - (II On Line)- SINTESI E MODULAZIONE DEL SUONO - II  parte    
 <a href="https://www.academia.edu/42401099/LEZIONE_VI_-_TECNICHE_DI_SINTESI_E_MODULAZIONE_DEL_SUONO_-_02" target="_blank">DISPENSE</a>   
 <a href="https://www.youtube.com/watch?v=9ndq3rCwVB0" target="_blank">VIDEO GRUPPO A</a>  
 <a href="https://www.youtube.com/watch?v=J26jmVos-aY" target="_blank">VIDEO GRUPPO B</a>  

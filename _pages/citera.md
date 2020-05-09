@@ -36,4 +36,8 @@ permalink: /citera/
 
 •LEZIONE 7 - (IV On Line)- LO SPAZIO SONORO - I parte    
 <a href="https://www.academia.edu/42865199/LEZIONE_VII_-_LO_SPAZIO_SONORO_-_01" target="_blank">DISPENSE</a>      
-<a href="https://youtu.be/_YZuhtYAN2s" target="_blank">VIDEO DELLA LEZIONE</a>  
+<a href="https://youtu.be/_YZuhtYAN2s" target="_blank">VIDEO DELLA LEZIONE</a>     
+
+•LEZIONE 8 - (V On Line)- LO SPAZIO SONORO - II parte    
+    
+<a href="https://youtu.be/NRWFu1Pautg" target="_blank">VIDEO DELLA LEZIONE</a>

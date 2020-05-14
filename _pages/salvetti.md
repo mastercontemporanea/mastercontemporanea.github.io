@@ -38,6 +38,10 @@ permalink: /salvetti/
 [In Russia Prima della Rivoluzione]({{ site.baseurl }}/russiabeforerevolution)    
 [La Rivoluzione Politica e la (mancata) Rivoluzione Artistica nell’URSS nel primo Novecento]({{ site.baseurl }}/russiaafterrevolution)
 
+<a href="https://www.dropbox.com/s/3r8h4ff8zoz75ki/Commento%20lezione%2017%20Aprile,%20Telari%20Samuele.pdf?dl=0" target="_blank">Commento alla lezione del 17 Aprile (S. Telari)</a>  
+
+
+
 
 •Alfredo Casella   
 

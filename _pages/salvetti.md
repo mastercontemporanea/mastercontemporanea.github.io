@@ -37,3 +37,28 @@ permalink: /salvetti/
 
 [In Russia Prima della Rivoluzione]({{ site.baseurl }}/russiabeforerevolution)    
 [La Rivoluzione Politica e la (mancata) Rivoluzione Artistica nell’URSS nel primo Novecento]({{ site.baseurl }}/russiaafterrevolution)
+
+
+•Alfredo Casella   
+
+<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AACOSKcZpHmPyaC8huQx8KJja/adieu%20%C3%A0%20la%20vie%20casella%20-%20spartito.pdf?dl=0" target="_blank">Adieu À La Vie - PARTITURA</a>      
+
+<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AAADV6Zq7X7Vary20BkW7Knoa/TESTO%20addio%20alla%20vita.docx?dl=0" target="_blank">Testo di Adieu À La Vie</a>    
+
+
+<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AADBxP_-Pnppgo0KWyB6xhNXa/PAVAN%20Casella%20-%20L%27adieu%20%C3%A0%20la%20vie.doc?dl=0" target="_blank">Analisi di Adieu À La Vie (M.S. Pavan)</a>    
+
+
+<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AAAiDS62TMXZhSzhTk8F6l_da/SALVETTI_TAGORE.pdf?dl=0" target="_blank">Analisi di Tagore (G. Salvetti)</a>    
+
+
+L'adieu à la vie, Op. 26: No. 1, O toi, suprême accomplissement de la vie
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/lhps2JdRpUY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
+L'adieu à la vie, Op. 26: No. 3, A cette heure du départ
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/F2j3Kis40O0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -45,15 +45,15 @@ permalink: /salvetti/
 
 •Alfredo Casella   
 
-<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AACOSKcZpHmPyaC8huQx8KJja/adieu%20%C3%A0%20la%20vie%20casella%20-%20spartito.pdf?dl=0" target="_blank">Adieu À La Vie - PARTITURA</a>      
+<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AACOSKcZpHmPyaC8huQx8KJja/adieu%20%C3%A0%20la%20vie%20casella%20-%20spartito.pdf?dl=0" target="_blank">Adieu à la vie - PARTITURA</a>      
 
-<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AAADV6Zq7X7Vary20BkW7Knoa/TESTO%20addio%20alla%20vita.docx?dl=0" target="_blank">Testo di Adieu À La Vie</a>    
-
-
-<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AADBxP_-Pnppgo0KWyB6xhNXa/PAVAN%20Casella%20-%20L%27adieu%20%C3%A0%20la%20vie.doc?dl=0" target="_blank">Analisi di Adieu À La Vie (M.S. Pavan)</a>    
+<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AAADV6Zq7X7Vary20BkW7Knoa/TESTO%20addio%20alla%20vita.docx?dl=0" target="_blank">Testo di Adieu à la vie</a>    
 
 
-<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AAAiDS62TMXZhSzhTk8F6l_da/SALVETTI_TAGORE.pdf?dl=0" target="_blank">Analisi di Tagore (G. Salvetti)</a>    
+<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AADBxP_-Pnppgo0KWyB6xhNXa/PAVAN%20Casella%20-%20L%27adieu%20%C3%A0%20la%20vie.doc?dl=0" target="_blank">Analisi di Adieu à la vie (M.S. Pavan)</a>    
+
+
+<a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AAAiDS62TMXZhSzhTk8F6l_da/SALVETTI_TAGORE.pdf?dl=0" target="_blank">Analisi di L’adieu à là vie (G.Salvetti)</a>    
 
 
 L'adieu à la vie, Op. 26: No. 1, O toi, suprême accomplissement de la vie

@@ -66,3 +66,9 @@ L'adieu à la vie, Op. 26: No. 1, O toi, suprême accomplissement de la vie
 L'adieu à la vie, Op. 26: No. 3, A cette heure du départ
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/F2j3Kis40O0" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+•Il Teatro Musicale di Gian Francesco Malipiero     
+
+<a href="https://www.dropbox.com/s/t3g4mrd87qgeyo9/teatro%20di%20malipiero.pdf?dl=0" target="_blank">Articolo in PDF</a>    

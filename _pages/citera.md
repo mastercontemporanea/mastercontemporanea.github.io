@@ -39,5 +39,10 @@ permalink: /citera/
 <a href="https://youtu.be/_YZuhtYAN2s" target="_blank">VIDEO DELLA LEZIONE</a>     
 
 •LEZIONE 8 - (V On Line)- LO SPAZIO SONORO - II parte    
-    
-<a href="https://youtu.be/NRWFu1Pautg" target="_blank">VIDEO DELLA LEZIONE</a>
+
+<a href="https://youtu.be/NRWFu1Pautg" target="_blank">VIDEO DELLA LEZIONE</a>    
+
+
+•LEZIONE 9 - (VI On Line)- L'ELETTRONICA E LO STRUMENTO "OMBRA"  
+
+<a href="https://youtu.be/5DoUlpfQ8Ho" target="_blank">VIDEO DELLA LEZIONE</a>

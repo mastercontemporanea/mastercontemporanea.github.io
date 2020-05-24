@@ -48,11 +48,5 @@ permalink: /citera/
 <a href="https://youtu.be/5DoUlpfQ8Ho" target="_blank">VIDEO DELLA LEZIONE</a>
 
  - Partiture citate:
-<ul>
-<li><a href="https://www.dropbox.com/s/tk2mciboj68zeu1/DueDimensioni.pdf?dl=0" target="_blank"> Bruno Maderna - Musica su Due Dimensioni (1952)</a></li>
-<li><a href="https://www.dropbox.com/s/6c6e4gnn02wre04/Differences.pdf?dl=0" target="_blank"> Luciano Berio - Differences (1959)</a></li>
-<li><a href="https://www.dropbox.com/s/jco2ngz0l2wfy81/SofferteOndeSerene.pdf?dl=0" target="_blank"> Luigi Nono - ...Sofferte Onde Serere... (1976)</a></li>
-<li><a href="https://www.dropbox.com/s/wi2bgqfusdr1xod/Dialogue.pdf?dl=0" target="_blank"> Pierre Boulez - Dialogue De L'Ombre Double (1985)</a></li>
-<li><a href="https://www.dropbox.com/s/mdlfdvs8zdxldo5/Mnemosyne.pdf?dl=0" target="_blank"> Brian Ferneyhough - Mnemosyne (1986)</a></li>
-<li><a href="https://www.dropbox.com/s/bez3bm32508dk57/LontananzaNostalgica.pdf?dl=0" target="_blank"> Luigi Nono - La Lontananza Nostalgica Utopica Futura (1988)</a></li>
-</ul>
+
+ <a href="https://www.dropbox.com/sh/lqyehvfe8hjztp4/AADzsjVFZugLauJWXagLinYwa?dl=0" target="_blank">CARTELLA PARTITURE</a>  

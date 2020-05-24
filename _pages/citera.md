@@ -46,3 +46,8 @@ permalink: /citera/
 •LEZIONE 9 - (VI On Line)- L'ELETTRONICA E LO STRUMENTO "OMBRA"  
 
 <a href="https://youtu.be/5DoUlpfQ8Ho" target="_blank">VIDEO DELLA LEZIONE</a>
+
+ - Partiture
+<ul>
+<li><a href="https://www.dropbox.com/s/tk2mciboj68zeu1/DueDimensioni.pdf?dl=0" target="_blank"> Bruno Maderna - Musica su Due Dimensioni (1952)</a></li>
+</ul>

@@ -45,8 +45,6 @@ permalink: /citera/
 
 • INCONTRO IX - (VI On Line)- L'ELETTRONICA E LO STRUMENTO "OMBRA"  
 
-<a href="https://youtu.be/5DoUlpfQ8Ho" target="_blank">VIDEO DELLA LEZIONE</a>
+<a href="https://youtu.be/5DoUlpfQ8Ho" target="_blank">VIDEO DELLA LEZIONE</a>   
 
- - Partiture citate:
-
- <a href="https://www.dropbox.com/sh/lqyehvfe8hjztp4/AADzsjVFZugLauJWXagLinYwa?dl=0" target="_blank">CARTELLA PARTITURE</a>  
+ - <a href="https://www.dropbox.com/sh/lqyehvfe8hjztp4/AADzsjVFZugLauJWXagLinYwa?dl=0" target="_blank">Partiture citate</a>  

@@ -41,7 +41,9 @@ permalink: /salvetti/
 <a href="https://www.dropbox.com/s/3r8h4ff8zoz75ki/Commento%20lezione%2017%20Aprile,%20Telari%20Samuele.pdf?dl=0" target="_blank">Commento alla lezione del 17 Aprile (S. Telari)</a>  
 
 
+•Musica in URSS - Il Realismo
 
+<a href="https://www.dropbox.com/s/5xxqlsy9a5f7oyv/musica%20in%20URSS.pdf?dl=0" target="_blank">Articolo</a> da *Enciclopedia della Musica [Einaudi]*
 
 •Alfredo Casella   
 
@@ -71,4 +73,12 @@ L'adieu à la vie, Op. 26: No. 3, A cette heure du départ
 
 •Il Teatro Musicale di Gian Francesco Malipiero     
 
-<a href="https://www.dropbox.com/s/t3g4mrd87qgeyo9/teatro%20di%20malipiero.pdf?dl=0" target="_blank">Articolo in PDF</a>    
+<a href="https://www.dropbox.com/s/t3g4mrd87qgeyo9/teatro%20di%20malipiero.pdf?dl=0" target="_blank">Articolo in PDF</a>   
+
+•Schoenberg, Stravinsky, and NeoClassicism; The Issues Reexamined (Alan Lessem)
+
+<a href="https://www.dropbox.com/s/uytp0whcoef47rm/Alan-Lessem-Schoenberg-Stravinsky-and-Neo-Classicism-The-Issues-Reexamined.pdf?dl=0" target="_blank">Articolo in PDF</a>
+
+•Del *Ritorno all'Ordine*. Le Diverse Ragioni. (G. Salvetti)
+
+<a href="https://www.dropbox.com/s/ww222xanqj9u71x/del%20ritorno.pdf?dl=0" target="_blank">Articolo in PDF</a>

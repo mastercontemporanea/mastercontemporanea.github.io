@@ -8,7 +8,7 @@ permalink: /salvetti/
 #### I SEMESTRE
 
 
-•SCHEMA LEZIONE del 10/01/2020   
+**•SCHEMA LEZIONE del 10/01/2020**   
 
 <a href="https://www.dropbox.com/sh/y6br73u9th0kw7d/AADs-DAhC1fapFI9HceLoHJTa?dl=0&preview=schema+lezione+10.01.2020.docx" target="_blank">APPUNTI</a>
 

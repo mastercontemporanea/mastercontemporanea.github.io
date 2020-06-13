@@ -45,6 +45,10 @@ permalink: /salvetti/
 
 <a href="https://www.dropbox.com/s/5xxqlsy9a5f7oyv/musica%20in%20URSS.pdf?dl=0" target="_blank">Articolo</a> da *Enciclopedia della Musica [Einaudi]*
 
+Musica in Urss [Machlis]   
+
+<a href="https://www.dropbox.com/s/zq0h5g9mrvc8cci/Machlis_musica%20in%20URSS.pdf?dl=0" target="_blank">Articolo</a>     
+
 •Alfredo Casella   
 
 <a href="https://www.dropbox.com/sh/e4afsjpwaw7xec9/AACOSKcZpHmPyaC8huQx8KJja/adieu%20%C3%A0%20la%20vie%20casella%20-%20spartito.pdf?dl=0" target="_blank">Adieu à la vie - PARTITURA</a>      

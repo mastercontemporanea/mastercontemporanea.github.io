@@ -20,7 +20,7 @@ permalink: /salvetti/
 
 <a href="https://www.dropbox.com/sh/y6br73u9th0kw7d/AABAhRq1s7R5kLEjWsqssviea/Fututrismo?dl=0&subfolder_nav_tracking=1" target="_blank">APPUNTI</a>
 
-**•A. Schönberg - Quindici Poesie op.15 - Dal Libreo dei Giardini Pensili di S. George**     
+**•A. Schönberg - Quindici Poesie op.15 - Dal Libro dei Giardini Pensili di S. George**     
 
 <a href="https://www.dropbox.com/sh/y6br73u9th0kw7d/AADs-DAhC1fapFI9HceLoHJTa?dl=0&preview=testi+George+.pdf" target="_blank">TESTO e PARTITURA</a>
 

@@ -88,6 +88,6 @@ L'adieu à la vie, Op. 26: No. 3, A cette heure du départ
 <a href="https://www.dropbox.com/s/ww222xanqj9u71x/del%20ritorno.pdf?dl=0" target="_blank">Articolo in PDF</a>
 
 
-**• Poetica della Musica _I. Stravinskij**
+**• Poetica della Musica (I. Stravinskij)**
 
 <a href="https://www.dropbox.com/s/px6o10gpqw241kw/INTRO%20%22Poetica%20della%20musica%22%20di%20Stravinsky.pdf?dl=0" target="_blank">Articolo in PDF</a>

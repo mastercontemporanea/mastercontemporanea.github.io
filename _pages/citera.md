@@ -10,26 +10,40 @@ permalink: /citera/
 • INCONTRO I - INTRODUZIONE ALLA MUSICA ELETTROACUSTICA   
 <a href="https://www.academia.edu/21693947/LEZIONE_I_-_INTRODUZIONE_E_STORIA_DELLA_MUSICA_ELETTROACUSTICA" target="_blank">DISPENSE</a>
 
+---
+
 • INCONTRO II - CENNI DI ACUSTICA E PSICOACUSTICA   
 <a href="https://www.academia.edu/22305517/LEZIONE_II_-_ACUSTICA_E_PSICOACUSTICA" target="_blank">DISPENSE</a>
+
+---
 
 
 • INCONTRO III - LA CATENA ELETTROACUSTICA   
 <a href="https://www.academia.edu/23013069/LEZIONE_III_-_LA_CATENA_ELETTROACUSTICA" target="_blank">DISPENSE</a>
 
+---
+
 
 • INCONTRO IV - TEORIA DEL CAMPIONAMENTO   
 <a href="https://www.academia.edu/24263813/LEZIONE_IV_-_IL_SUONO_DIGITALE._TEORIA_DEL_CAMPIONAMENTO" target="_blank">DISPENSE</a>   
+
+---
 
 • INCONTRO V - (I On Line) - SINTESI E MODULAZIONE DEL SUONO- I parte   
 <a href="https://www.academia.edu/42243952/LEZIONE_V_-_TECNICHE_DI_SINTESI_E_MODULAZIONE_DEL_SUONO_-01" target="_blank">DISPENSE</a>  
 <a href="https://www.youtube.com/watch?v=qlWnTHPPWto" target="_blank">VIDEO SINTESI ADDITIVA E SOTTRATTIVA</a>  
 <a href="https://youtu.be/55Hj6Y4Y4jg" target="_blank">VIDEO MODULAZIONI AM-RM</a>  
 
+---
+
+
 • INCONTRO VI - SINTESI E MODULAZIONE DEL SUONO - II  parte    
 <a href="https://www.academia.edu/42401099/LEZIONE_VI_-_TECNICHE_DI_SINTESI_E_MODULAZIONE_DEL_SUONO_-_02" target="_blank">DISPENSE</a>   
 <a href="https://www.youtube.com/watch?v=9ndq3rCwVB0" target="_blank">VIDEO GRUPPO A</a>  
 <a href="https://www.youtube.com/watch?v=J26jmVos-aY" target="_blank">VIDEO GRUPPO B</a>  
+
+---
+
 
 • INCONTRO bonus - L'OPERA ELETTROACUSTICA  
 [Le Opere Trattate]({{ site.baseurl }}/opere)
@@ -38,9 +52,14 @@ permalink: /citera/
 <a href="https://www.academia.edu/42865199/LEZIONE_VII_-_LO_SPAZIO_SONORO_-_01" target="_blank">DISPENSE</a>      
 <a href="https://youtu.be/_YZuhtYAN2s" target="_blank">VIDEO DELLA LEZIONE</a>     
 
+---
+
+
 • INCONTRO VIII - LO SPAZIO SONORO - II parte    
 
 <a href="https://youtu.be/NRWFu1Pautg" target="_blank">VIDEO DELLA LEZIONE</a>    
+
+---
 
 
 • INCONTRO IX - L'ELETTRONICA E LO STRUMENTO "OMBRA"  
@@ -49,11 +68,15 @@ permalink: /citera/
 
  - <a href="https://www.dropbox.com/sh/lqyehvfe8hjztp4/AADzsjVFZugLauJWXagLinYwa?dl=0" target="_blank">Partiture citate</a>  
 
+---
+
 
  • INCONTRO X - INTRODUZIONE A REAPER
 
 <a href="https://youtu.be/sq5AulgUfr4?t=3939" target="_blank">VIDEO DELLA LEZIONE</a> (L'argomento Reaper inizia a 1:05:40)
 
+
+---
 
 
 • INCONTRO XI - MODELLI DI ANALISI DELLA MUSICA CONTEMPORANEA

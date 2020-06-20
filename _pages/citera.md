@@ -45,8 +45,11 @@ permalink: /citera/
 ---
 
 
-• INCONTRO bonus - L'OPERA ELETTROACUSTICA  
+• INCONTRO extra - L'OPERA ELETTROACUSTICA  
 [Le Opere Trattate]({{ site.baseurl }}/opere)
+
+---
+
 
 • INCONTRO VII - LO SPAZIO SONORO - I parte    
 <a href="https://www.academia.edu/42865199/LEZIONE_VII_-_LO_SPAZIO_SONORO_-_01" target="_blank">DISPENSE</a>      

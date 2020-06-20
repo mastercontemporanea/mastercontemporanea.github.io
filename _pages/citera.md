@@ -61,4 +61,13 @@ permalink: /citera/
 <a href="https://www.dropbox.com/s/ou1xhbdmzgn3jgu/XI_LESSON_MASTER_Slide.pdf?dl=0" target="_blank">SLIDE</a>  
 
 
-<a href=" " target="_blank">VIDEO DELLA LEZIONE</a>  
+<a href="https://www.youtube.com/watch?v=r3LyQMkkzyU" target="_blank">VIDEO DELLA LEZIONE</a>  
+
+
+La Psicologia della Gestalt (D. Buccio) - <a href="https://www.dropbox.com/s/t11jv0ijst61wku/Buccio_Daniele_La_psicologia_della_Gestalt.pdf?dl=0" target="_blank">PDF</a>    
+
+
+Metodologie di Analisi della Musica Elettroacustica (M. Flammini) - <a href="https://www.dropbox.com/s/cqlbhdebuf8q5b5/Flammini_MetodologieAnalisi.pdf?dl=0" target="_blank">PDF</a>
+
+
+La Spettromorfologia (D. Smalley) - <a href="https://www.dropbox.com/s/92tuyrpu9zmhfcu/D_Smalley_Spectromorphology.pdf?dl=0" target="_blank">PDF</a>

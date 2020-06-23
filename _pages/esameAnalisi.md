@@ -14,6 +14,13 @@ per Soprano e nastro magnetico a quattro piste (1964)
 <iframe width="560" height="315" src="https://www.youtube.com/embed/yzcAzCEtAbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
+#### • PIERRE BOULEZ - ANTHÈME II
+
+per Violino e live electronics (1997)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TMYDgwNALY8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
 #### • MAURO CARDI - BREATHE
 
 per Fisarmonica e live electronics  (2007)
@@ -65,6 +72,14 @@ per Sax e live electronics  (2013-15)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/LA9oJingdc8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+
+#### • AGOSTINO DI SCIPIO - AUDIBLE ECOSYSTEMICS 3b
+
+per Tre cantanti e live electronics (2004-2005)
+
+rec [searching]
+---
 
 
 <a href="https://www.dropbox.com/sh/vwbj8gei7twewo8/AADUmGn0TNmybL9T1Trxs7THa?dl=0" target="_blank">PARTITURE PER ANALISI</a>

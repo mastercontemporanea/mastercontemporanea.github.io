@@ -11,14 +11,14 @@ permalink: /esame1sem/
 
 per Soprano e nastro magnetico a quattro piste (1964)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=yzcAzCEtAbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/yzcAzCEtAbs" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### • MAURO CARDI - BREATHE
 
 per Fisarmonica e live electronics  (2007)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PyZpXSdf1yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PyZpXSdf1yg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
@@ -26,32 +26,28 @@ per Fisarmonica e live electronics  (2007)
 
 per Viola elettrica e live electronics  (2011-2016)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=PxbIe0FoSDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/PxbIe0FoSDU" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### • FAUSTO ROMITELLI - TRASH TV TRANCE
 
 per Chitarra Elettrica  (2002)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=VXA1XoV81QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/VXA1XoV81QM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### • KARLHEINZ STOCKHAUSEN - KONTAKTE
 
 per Pianoforte, Percussioni e Nastro Magnetico  (1958-60)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=l_UHaulsw3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l_UHaulsw3M" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 #### • BRIAN FERNEYHOUGH - MNEMOSYNE
 
 per Flauto Basso e 8 flauti pre-registrati  (1986)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Arq-SXjqKwM&t=0s frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Arq-SXjqKwM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 

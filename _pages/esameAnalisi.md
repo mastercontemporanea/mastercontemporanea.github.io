@@ -67,4 +67,4 @@ per Sax e live electronics  (2013-15)
 
 
 
-<a href="https://www.dropbox.com/s/2fy05ibzatb2ada/Intolleranza.pdf?dl=0" target="_blank">PARTITURE PER ANALISI</a>
+<a href="https://www.dropbox.com/sh/vwbj8gei7twewo8/AADUmGn0TNmybL9T1Trxs7THa?dl=0" target="_blank">PARTITURE PER ANALISI</a>

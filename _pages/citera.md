@@ -97,3 +97,10 @@ Metodologie di Analisi della Musica Elettroacustica (M. Flammini) - <a href="htt
 
 
 La Spettromorfologia (D. Smalley) - <a href="https://www.dropbox.com/s/92tuyrpu9zmhfcu/D_Smalley_Spectromorphology.pdf?dl=0" target="_blank">PDF</a>
+
+---
+
+• COMPOSIZIONI SUGGERITE PER L'ESAME DI ANALISI:
+[Elenco, Specifiche e Link]({{ site.baseurl }}/esame1sem)
+
+---

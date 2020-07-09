@@ -1,7 +1,7 @@
 ---
 layout: page
 title: STORIA DELLA MUSICA CONTEMPORANEA
-permalink: /salvetti/
+permalink: /salvetti1/
 ---
 
 ### Prof. Guido SALVETTI

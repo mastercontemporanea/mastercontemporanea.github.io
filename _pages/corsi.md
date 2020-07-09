@@ -14,15 +14,22 @@ permalink: /corsi/
 
 #### Prof. Pasquale CITERA
 
-[INTERPRETAZIONE DELLA MUSICA ELETTROACUSTICA]({{ site.baseurl }}/citera)
+INTERPRETAZIONE DELLA MUSICA ELETTROACUSTICA
+
+[I SEMESTRE]({{ site.baseurl }}/citera)
 
 #### Prof. Franco MIRENZI
+ELEMENTI DI COMPOSIZIONE
 
-[ELEMENTI DI COMPOSIZIONE]({{ site.baseurl }}/mirenzi)
+[I SEMESTRE]({{ site.baseurl }}/mirenzi)
 
 #### Prof. Guido SALVETTI
+STORIA DELLA MUSICA CONTEMPORANEA
 
-[STORIA DELLA MUSICA CONTEMPORANEA]({{ site.baseurl }}/salvetti)
+
+[I SEMESTRE]({{ site.baseurl }}/salvetti1)
+
+[II SEMESTRE]({{ site.baseurl }}/salvetti2)
 
 
 <!--

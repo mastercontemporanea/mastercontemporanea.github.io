@@ -6,5 +6,3 @@ permalink: /mirenzi/
 
 ### Prof. Franco MIRENZI
 #### I SEMESTRE
-
-[ELEMENTI DI COMPOSIZIONE]({{ site.baseurl }}/mirenzi)

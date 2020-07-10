@@ -28,4 +28,6 @@ N.B. Le Slide con il titolo di una composizione hanno l'esempio audio-video che 
 
 ##### • Lezione Compendio di Semiografia Contemporanea
 
+<center>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Kg_l3WcaQf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</center>

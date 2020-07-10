@@ -25,3 +25,7 @@ permalink: /bracci/
 
 N.B. Le Slide con il titolo di una composizione hanno l'esempio audio-video che parte al secondo click.   
 (per ascoltare, dopo il secondo click, bisogna aspettare qualche secondo)
+
+##### • Lezione Compendio di Semiografia Contemporanea
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kg_l3WcaQf4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

@@ -9,7 +9,7 @@ permalink: /salvetti2/
 
 ---
 
-** ITALIA MILLENOVECENTICINQUANTA **
+**ITALIA MILLENOVECENTICINQUANTA**
 
 
 Saggi a cura di G. Salvetti e B. M. Antolini  
@@ -28,6 +28,6 @@ per un nuovo ruolo nella comunicazione musicale oggi**  (P. Rosato)
 
 
 
-** Sperimentalismo 2. Lezione del 23/10/2020 **
+**Sperimentalismo 2. Lezione del 23/10/2020**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDd83MYAamw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

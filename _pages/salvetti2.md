@@ -31,3 +31,14 @@ per un nuovo ruolo nella comunicazione musicale oggi**  (P. Rosato)
 **Sperimentalismo 2. Lezione del 23/10/2020**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/vDd83MYAamw" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+**Sinfonia - Luciano Berio**
+
+
+
+
+<a href="https://www.dropbox.com/s/pmgkidytoic8dtf/BERIO%20Sinfonia.docx?dl=0" target="_blank">LINK</a>
+
+---

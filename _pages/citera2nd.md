@@ -7,6 +7,9 @@ permalink: /citera2nd/
 ### Prof. Pasquale CITERA
 #### II SEMESTRE
 
-• INCONTRO I - STRUMENTI ESSENZIALI PER LA COMPOSIZIONE E LA PERFORMANCE ELETTROACUSTICA  
+#### Percorso di Composizione Elettroacustica e di creazione degli elementi base di Live Electronics
 
-Introduzione a MAX8 e Reaper
+
+- Incontro I: Introduzione a MAX8
+
+<a href="https://youtu.be/NYywavqffFI" target="_blank">LINK VIDEO</a>

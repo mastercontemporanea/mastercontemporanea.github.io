@@ -42,3 +42,20 @@ per un nuovo ruolo nella comunicazione musicale oggi**  (P. Rosato)
 <a href="https://www.dropbox.com/s/pmgkidytoic8dtf/BERIO%20Sinfonia.docx?dl=0" target="_blank">LINK</a>
 
 ---
+
+
+**Lezione del 20/11/2020**
+
+
+
+• Musica Ex Machina (F. Prieberg)  
+
+<a href="https://www.dropbox.com/sh/di7idnixgd3uao4/AAAyNehv_lXtzXvSwT9gLFXsa?dl=0&preview=Prieberg+-+Musica+ex+machina+-+estratto.pdf" target="_blank">LINK</a>
+
+
+• Stockhausen e lo Studio per la Musica Elettronica nella Radio di Colonia (NWD)   
+
+<a href="https://www.dropbox.com/sh/di7idnixgd3uao4/AAAyNehv_lXtzXvSwT9gLFXsa?dl=0&preview=Stockhausen+e+lo+Studio+per+la+musica+elettronica+nella+Radio+di+Colonia.docx" target="_blank">LINK</a>
+
+
+---

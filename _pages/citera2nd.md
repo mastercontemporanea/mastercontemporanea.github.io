@@ -13,3 +13,9 @@ permalink: /citera2nd/
 - Incontro I: Introduzione a MAX8
 
 <a href="https://youtu.be/NYywavqffFI" target="_blank">LINK VIDEO</a>
+
+---
+
+- Incontro II: Sintesi Additiva a Spettro Variabile - Delay con Feedback
+
+<a href="https://youtu.be/Oh4VxEO6YX4" target="_blank">LINK VIDEO</a>

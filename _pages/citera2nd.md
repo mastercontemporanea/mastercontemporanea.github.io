@@ -30,12 +30,12 @@ permalink: /citera2nd/
 <a href="https://youtu.be/Oh4VxEO6YX4" target="_blank">LINK VIDEO</a>
 
 • Patch di Introduzione agli Inviluppi di Ampiezza -
-<a href="https://www.dropbox.com/s/litlejwe3dd3cwf/02a_InviluppoDAmpiezza.maxhelp?dl=0" target="_blank">DOWNLOAD<</a>
+<a href="https://www.dropbox.com/s/litlejwe3dd3cwf/02a_InviluppoDAmpiezza.maxhelp?dl=0" target="_blank">DOWNLOAD</a>
 
 • Patch di Sintesi Additiva a Spettro Variabile [con esempi] -
 <a href="https://www.dropbox.com/s/1ou9etwq3zi5a7v/02b_SintesiAdditivaSpettroVariabile.maxpat?dl=0" target="_blank">DOWNLOAD</a>
 
-• Patch di Linee di ritardo (delay) con feedback [con esempi] -
+• Patch di Linee di Ritardo (Delay) con Feedback [con esempi] -
 <a href="https://www.dropbox.com/s/l3bojtiree0tbok/02c_DelayFeedback.maxpat?dl=0" target="_blank">DOWNLOAD</a>
 
 

@@ -38,5 +38,8 @@ permalink: /citera2nd/
 • Patch di Linee di Ritardo (Delay) con Feedback [con esempi] -
 <a href="https://www.dropbox.com/s/l3bojtiree0tbok/02c_DelayFeedback.maxpat?dl=0" target="_blank">DOWNLOAD</a>
 
+• Esempio di semplice Live Electronics tramite sei linee di ritardo [con spiegazione] -
+<a href="https://www.dropbox.com/s/gjfednvw4qgn1l6/02d_EsempioPatchDelay.maxpat?dl=0" target="_blank">DOWNLOAD</a>
+
 
 ---

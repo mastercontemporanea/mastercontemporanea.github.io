@@ -53,7 +53,7 @@ per un nuovo ruolo nella comunicazione musicale oggi**  (P. Rosato)
 <a href="https://www.dropbox.com/sh/di7idnixgd3uao4/AAAyNehv_lXtzXvSwT9gLFXsa?dl=0&preview=Prieberg+-+Musica+ex+machina+-+estratto.pdf" target="_blank">LINK</a>
 
 
-• Stockhausen e lo Studio per la Musica Elettronica nella Radio di Colonia (NWD)   
+• Stockhausen e lo Studio per la Musica Elettronica nella Radio di Colonia (WDR)   
 
 <a href="https://www.dropbox.com/sh/di7idnixgd3uao4/AAAyNehv_lXtzXvSwT9gLFXsa?dl=0&preview=Stockhausen+e+lo+Studio+per+la+musica+elettronica+nella+Radio+di+Colonia.docx" target="_blank">LINK</a>
 
@@ -65,5 +65,4 @@ per un nuovo ruolo nella comunicazione musicale oggi**  (P. Rosato)
 
 •  Lettura commentata e sottolineature del saggio di Philippe Albéra sul Teatro Musicale del Novecento; (I vol. - Enciclopedia della musica Einaudi)
 
-
-https://www.dropbox.com/s/vh626hcreutxkes/Enciclopedia%20Einaudi%202001_Albera.pdf?dl=0
+<a href="https://www.dropbox.com/s/vh626hcreutxkes/Enciclopedia%20Einaudi%202001_Albera.pdf?dl=0" target="_blank">LINK</a>

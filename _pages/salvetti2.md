@@ -59,3 +59,11 @@ per un nuovo ruolo nella comunicazione musicale oggi**  (P. Rosato)
 
 
 ---
+
+**Lezione del 4/12/2020**
+
+
+•  Lettura commentata e sottolineature del saggio di Philippe Albéra sul Teatro Musicale del Novecento; (I vol. - Enciclopedia della musica Einaudi)
+
+
+https://www.dropbox.com/s/vh626hcreutxkes/Enciclopedia%20Einaudi%202001_Albera.pdf?dl=0

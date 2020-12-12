@@ -25,7 +25,7 @@ permalink: /citera2nd/
 
 ---
 
-- Incontro II: Sintesi Additiva a Spettro Variabile - Delay con Feedback
+- Incontro II: Sintesi Additiva a Spettro Variabile (1) - Delay con Feedback
 
 <a href="https://youtu.be/Oh4VxEO6YX4" target="_blank">LINK VIDEO</a>
 
@@ -40,6 +40,20 @@ permalink: /citera2nd/
 
 • Esempio di semplice Live Electronics tramite sei linee di ritardo [con spiegazione] -
 <a href="https://www.dropbox.com/s/gjfednvw4qgn1l6/02d_EsempioPatchDelay.maxpat?dl=0" target="_blank">DOWNLOAD</a>
+
+
+---
+
+
+- Incontro II: Sintesi Additiva a Spettro Variabile (2) - Prova di live Electronics con un algoritmo di sintesi additiva - Concetto di Suono-Forma
+
+
+<a href="https://youtu.be/CF8NBdhVpuI" target="_blank">LINK VIDEO</a>
+
+• Patch di riepilogo degli argomenti trattati -  <a href="   " target="_blank">DOWNLOAD</a>
+
+
+• Impostazione base di un semplice Live Electronics tramite oscillatori sinusoidali -  <a href="   " target="_blank">DOWNLOAD</a>
 
 
 ---

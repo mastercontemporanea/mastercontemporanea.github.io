@@ -45,12 +45,12 @@ permalink: /citera2nd/
 ---
 
 
-- Incontro II: Sintesi Additiva a Spettro Variabile (2) - Prova di live Electronics con un algoritmo di sintesi additiva - Concetto di Suono-Forma
+- Incontro III: Sintesi Additiva a Spettro Variabile (2) - Prova di live Electronics con un algoritmo di sintesi additiva - Concetto di Suono-Forma
 
 
 <a href="https://youtu.be/CF8NBdhVpuI" target="_blank">LINK VIDEO</a>
 
-• Patch di riepilogo degli argomenti trattati -  <a href="   " target="_blank">DOWNLOAD</a>
+• Patch di approfondimento su inviluppi, subpatch e dB -  <a href="https://www.dropbox.com/s/o4og1hdbafh1c9t/03a_ApprofondimentoInviluppi_dB_subpatch.maxhelp?dl=0" target="_blank">DOWNLOAD</a>
 
 
 • Impostazione base di un semplice Live Electronics tramite oscillatori sinusoidali -  <a href="   " target="_blank">DOWNLOAD</a>

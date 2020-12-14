@@ -53,7 +53,7 @@ permalink: /citera2nd/
 • Patch di approfondimento su inviluppi, subpatch e dB -  <a href="https://www.dropbox.com/s/t99hutabrgnojch/03a_ApprofondimentoInviluppi_dB_subpatch.maxhelp?dl=0" target="_blank">DOWNLOAD</a>
 
 
-• Impostazione base di un semplice Live Electronics tramite oscillatori sinusoidali -  <a href="https://www.dropbox.com/s/867w92qwls38x9x/03b_EsempioDiLiveElectronicsStrumento-StrumentoSintetico.maxhelp?dl=0" target="_blank">DOWNLOAD</a>
+• Impostazione base di un semplice Live Electronics tramite oscillatori sinusoidali -  <a href="https://www.dropbox.com/s/zycspk2r85rdbl1/03b_EsempioDiLiveElectronicsStrumento-StrumentoSintetico.maxhelp?dl=0" target="_blank">DOWNLOAD</a>
 
 (file audio necessario per la patch) - <a href="https://www.dropbox.com/s/bcktgv11cxhk3at/piano.mp3?dl=0" target="_blank">DOWNLOAD</a>
 

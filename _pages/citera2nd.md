@@ -59,3 +59,15 @@ permalink: /citera2nd/
 
 
 ---
+
+- Incontro IV: Ripasso - Primo Progetto Compositivo
+
+
+<a href="https://www.youtube.com/watch?v=96T0VR-HjV0" target="_blank">LINK VIDEO</a>
+
+
+• Esempio di Patch per Suoni-Forma e Strutture Compositive con Suoni Sintetici -  <a href="https://www.dropbox.com/s/e0xl8oeupu29tka/04_EsempiodiPatchperSuoniForma.maxpat?dl=0" target="_blank">DOWNLOAD</a>
+
+
+
+---

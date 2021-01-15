@@ -66,3 +66,13 @@ per un nuovo ruolo nella comunicazione musicale oggi**  (P. Rosato)
 •  Lettura commentata e sottolineature del saggio di Philippe Albéra sul Teatro Musicale del Novecento; (I vol. - Enciclopedia della musica Einaudi)
 
 <a href="https://www.dropbox.com/s/vh626hcreutxkes/Enciclopedia%20Einaudi%202001_Albera.pdf?dl=0" target="_blank">LINK</a>
+
+
+---
+
+**Qualche schema per il Secondo Semestre**
+
+•  Slides, temi e ascolti
+
+
+<a href="https://www.dropbox.com/scl/fi/9immkz8mrvii7p32pxw9l/secondo-semestre-15.1.2021.pptx?dl=0&rlkey=sz944xysf4r9peclwosul2hq6&fbclid=IwAR3y1T9ZB8uzsTN-991WkZoxE3mbUkjOEsNBXokkgjwCtfAjShEIQtkxRYk" target="_blank">LINK</a>

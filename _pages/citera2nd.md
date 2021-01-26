@@ -84,3 +84,16 @@ permalink: /citera2nd/
 
 
 ---
+
+- Incontro VI: Sintesi FM
+
+
+<a href="https://www.youtube.com/watch?v=9E1OzXD1zAU" target="_blank">LINK VIDEOLEZIONE</a>
+
+
+• Patch di riassunto su FM -  <a href="https://www.dropbox.com/s/hz2ysnwvy9vw78n/06_ModulazionediFrequenza.maxpat?dl=0" target="_blank">DOWNLOAD</a>
+
+• Articolo originale sulla FM di John Chowning -  <a href="https://www.dropbox.com/s/9t4963ad6zrad47/FmChowning.pdf?dl=0" target="_blank">DOWNLOAD</a>
+
+
+---

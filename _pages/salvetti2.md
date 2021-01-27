@@ -76,3 +76,11 @@ per un nuovo ruolo nella comunicazione musicale oggi**  (P. Rosato)
 
 
 <a href="https://www.dropbox.com/scl/fi/9immkz8mrvii7p32pxw9l/secondo-semestre-15.1.2021.pptx?dl=0&rlkey=sz944xysf4r9peclwosul2hq6&fbclid=IwAR3y1T9ZB8uzsTN-991WkZoxE3mbUkjOEsNBXokkgjwCtfAjShEIQtkxRYk" target="_blank">LINK</a>
+
+
+---
+
+**Musica leggera**
+da Theodor W. Adorno ***Introduzione alla sociologia della musica***, ed. ital. Einaudi, Torino, 1971, pp. 26-47.
+
+<a href="https://www.dropbox.com/s/uu5m6tdl2hiu67r/adorno.pdf?dl=0" target="_blank">LINK</a>

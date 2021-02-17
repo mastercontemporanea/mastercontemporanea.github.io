@@ -97,3 +97,15 @@ permalink: /citera2nd/
 
 
 ---
+
+
+
+- Incontro VII: Buffer ed elaborazione dei campioni
+
+
+<a href="https://www.youtube.com/watch?v=7Wd7G2xxTGY" target="_blank">LINK VIDEOLEZIONE</a>
+
+• Patch di riassunto - <a href=" " target="_blank">COMING SOON</a>
+
+
+---

@@ -105,7 +105,7 @@ permalink: /citera2nd/
 
 <a href="https://www.youtube.com/watch?v=7Wd7G2xxTGY" target="_blank">LINK VIDEOLEZIONE</a>
 
-• Patch di riassunto - <a href=" " target="_blank">COMING SOON</a>
+• Patch di riassunto - <a href="https://www.dropbox.com/s/egrty35m43a4lg9/07_LetturediCampioni_Buffer.maxpat?dl=0" target="_blank">DOWNLOAD</a>
 
 
 ---

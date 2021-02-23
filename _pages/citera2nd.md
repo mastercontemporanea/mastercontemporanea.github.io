@@ -109,3 +109,9 @@ permalink: /citera2nd/
 
 
 ---
+
+- Incontro VIII: Problemi compositivi ed algoritmici
+
+<a href="https://www.youtube.com/watch?v=-QweYAUfQO8" target="_blank">LINK VIDEOLEZIONE</a>
+
+• Patch dell'algoritmo della maschera di tendenza  - <a href="https://www.dropbox.com/s/ou7xl6m1be0t39n/08_Random.maxpat?dl=0" target="_blank">DOWNLOAD</a>
